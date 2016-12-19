@@ -1,0 +1,3171 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/TGxC9_MuNRiml7SxHqL8xA6fS5I\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 200,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/5bEMi13HwqOdu30FayB3C5MqDNk\"",
+   "id": "-nQGBZQrtT0",
+   "snippet": {
+    "publishedAt": "2016-10-02T06:46:59.000Z",
+    "channelId": "UCqFzWxSCi39LnW1JKFR3efg",
+    "title": "Donald Trump vs. Hillary Clinton Debate Cold Open - SNL",
+    "description": "Donald Trump (Alec Baldwin) and Hillary Clinton (Kate McKinnon) face off in the first presidential debate, moderated by Lester Holt (Michael Che).\n\nGet more SNL on Hulu Plus: http://www.hulu.com/saturday-night-live\n\nGet more SNL: http://www.nbc.com/saturday-night-live\nFull Episodes: http://www.nbc.com/saturday-night-liv...\n\nLike SNL: https://www.facebook.com/snl\nFollow SNL: https://twitter.com/nbcsnl\nSNL Tumblr: http://nbcsnl.tumblr.com/\nSNL Instagram: http://instagram.com/nbcsnl \nSNL Pinterest: http://www.pinterest.com/nbcsnl/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-nQGBZQrtT0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-nQGBZQrtT0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-nQGBZQrtT0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-nQGBZQrtT0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-nQGBZQrtT0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Saturday Night Live",
+    "tags": [
+     "SNL",
+     "Saturday Night Live",
+     "Season 42",
+     "Episode 1705",
+     "Lester Holt",
+     "Michael Che",
+     "Kate McKinnon",
+     "Alec Baldwin",
+     "Hillary Clinton",
+     "Donald Trump",
+     "debate",
+     "republican",
+     "democrat",
+     "red",
+     "blue",
+     "fight",
+     "funny",
+     "america",
+     "usa",
+     "flag",
+     "suicide squad",
+     "the weeknd",
+     "episode 1 live",
+     "new york",
+     "comedy",
+     "hilarious",
+     "sketch",
+     "premiere",
+     "season 42",
+     "laugh",
+     "election",
+     "president",
+     "politics"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Donald Trump vs. Hillary Clinton Debate Cold Open - SNL",
+     "description": "Donald Trump (Alec Baldwin) and Hillary Clinton (Kate McKinnon) face off in the first presidential debate, moderated by Lester Holt (Michael Che).\n\nGet more SNL on Hulu Plus: http://www.hulu.com/saturday-night-live\n\nGet more SNL: http://www.nbc.com/saturday-night-live\nFull Episodes: http://www.nbc.com/saturday-night-liv...\n\nLike SNL: https://www.facebook.com/snl\nFollow SNL: https://twitter.com/nbcsnl\nSNL Tumblr: http://nbcsnl.tumblr.com/\nSNL Instagram: http://instagram.com/nbcsnl \nSNL Pinterest: http://www.pinterest.com/nbcsnl/"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/9HX0xhxnvirC-MnH_Y80bD4xIOo\"",
+   "id": "RNKyErEjxiE",
+   "snippet": {
+    "publishedAt": "2016-10-01T18:16:47.000Z",
+    "channelId": "UCSAUGyc_xA8uYzaIVG6MESQ",
+    "title": "iFhone 8 Commercial Leaked!",
+    "description": "See it here first, the iFhone 8 is already coming out!\n\nSee bloopers and Behind the scenes here: https://www.youtube.com/watch?v=ozqV2PXCvwc\n\nNew Official Store\nhttp://www.crowdmade.com/ryan\n\nNigahiga Channel\nhttp://www.youtube.com/nigahiga\n\nHigaTV Channel\nhttp://www.youtube.com/higatv\n\nTwitter\nhttp://www.twitter.com/therealryanhiga\n\nFacebook\nhttp://www.facebook.com/higatv\n\nWebsite\nhttp://www.higatv.com\n\nInstagram\nhttp://www.instagram.com/notryanhiga\n\nSend us mail or whatever you want here!\nPO Box 232355\nLas Vegas, NV 89105\n\nDownload the TEEHEE app for iPhone and Android here:\niPhone:http://goo.gl/KXLz9j  \nAndroid: http://goo.gl/RQZUKR",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RNKyErEjxiE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RNKyErEjxiE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RNKyErEjxiE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RNKyErEjxiE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RNKyErEjxiE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nigahiga",
+    "tags": [
+     "iphone 8",
+     "commercial",
+     "nigahiga",
+     "ryan higa",
+     "higatv",
+     "iphone 7"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "iFhone 8 Commercial Leaked!",
+     "description": "See it here first, the iFhone 8 is already coming out!\n\nSee bloopers and Behind the scenes here: https://www.youtube.com/watch?v=ozqV2PXCvwc\n\nNew Official Store\nhttp://www.crowdmade.com/ryan\n\nNigahiga Channel\nhttp://www.youtube.com/nigahiga\n\nHigaTV Channel\nhttp://www.youtube.com/higatv\n\nTwitter\nhttp://www.twitter.com/therealryanhiga\n\nFacebook\nhttp://www.facebook.com/higatv\n\nWebsite\nhttp://www.higatv.com\n\nInstagram\nhttp://www.instagram.com/notryanhiga\n\nSend us mail or whatever you want here!\nPO Box 232355\nLas Vegas, NV 89105\n\nDownload the TEEHEE app for iPhone and Android here:\niPhone:http://goo.gl/KXLz9j  \nAndroid: http://goo.gl/RQZUKR"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/R-M9ppcfiUBTHCfsALrR_Z8AFDE\"",
+   "id": "IllxqeXh8Go",
+   "snippet": {
+    "publishedAt": "2016-10-02T10:09:51.000Z",
+    "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+    "title": "The Weeknd - Starboy (Live On SNL) ft. Daft Punk",
+    "description": "Starboy ft. Daft Punk (Live On SNL)\nTaken from the new album Starboy http://theweeknd.co/StarboyYD\n\nConnect with The Weeknd:\nhttp://www.facebook.com/theweeknd\nhttp://instagram.com/theweeknd\nhttps://soundcloud.com/theweeknd\nhttps://twitter.com/TheWeeknd\nhttps://www.theweeknd.com\n\nFilmed October 1st, 2016\nStudio 8H 30 Rockefeller Center NYC\n\nMusic video by The Weeknd performing Starboy ft. Daft Punk. © 2016 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc.\n\nhttp://vevo.ly/LKbwDJ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IllxqeXh8Go/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IllxqeXh8Go/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IllxqeXh8Go/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IllxqeXh8Go/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IllxqeXh8Go/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "TheWeekndVEVO",
+    "tags": [
+     "The Weeknd",
+     "Starboy",
+     "The Weeknd new music",
+     "Beauty Behind The Madness",
+     "XO",
+     "Daft Punk",
+     "SNL"
+    ],
+    "categoryId": "10",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "The Weeknd - Starboy (Live On SNL) ft. Daft Punk",
+     "description": "Starboy ft. Daft Punk (Live On SNL)\nTaken from the new album Starboy http://theweeknd.co/StarboyYD\n\nConnect with The Weeknd:\nhttp://www.facebook.com/theweeknd\nhttp://instagram.com/theweeknd\nhttps://soundcloud.com/theweeknd\nhttps://twitter.com/TheWeeknd\nhttps://www.theweeknd.com\n\nFilmed October 1st, 2016\nStudio 8H 30 Rockefeller Center NYC\n\nMusic video by The Weeknd performing Starboy ft. Daft Punk. © 2016 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc.\n\nhttp://vevo.ly/LKbwDJ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/JA1HkB5a9TAB0sb86lktrBKdglI\"",
+   "id": "ikh61capNrE",
+   "snippet": {
+    "publishedAt": "2016-10-01T19:03:37.000Z",
+    "channelId": "UCo8bcnLyZH8tBIH9V1mLgqQ",
+    "title": "Drawing Pokémon From Memory w/ Jaiden Animations",
+    "description": "Drawing's hard especially when you don't have a good memory.\n\nJaiden's video ➤ https://www.youtube.com/watch?v=z_mtmr6ylDM&feature=youtu.be&ab_channel=JaidenAnimations\n\nJaidens' channel (if somehow you don't know her already): https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nTumblr ➤ http://theodd1sout.tumblr.com\n\nWebsite ➤ http://theodd1sout.com/\n\nFacebook ➤ https://www.facebook.com/theodd1sout\n\nTwitter ➤ https://twitter.com/Theodd1sout\n\nTapastic ➤ https://tapastic.com/theodd1sout",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ikh61capNrE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ikh61capNrE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ikh61capNrE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ikh61capNrE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ikh61capNrE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "theodd1sout comic",
+    "tags": [
+     "drawing",
+     "pokemon",
+     "memeory",
+     "meowth",
+     "paint tools sai",
+     "sai",
+     "clip studio",
+     "Jaiden Animations",
+     "collab",
+     "collaboration",
+     "theodd1sout",
+     "theoddonesout"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Drawing Pokémon From Memory w/ Jaiden Animations",
+     "description": "Drawing's hard especially when you don't have a good memory.\n\nJaiden's video ➤ https://www.youtube.com/watch?v=z_mtmr6ylDM&feature=youtu.be&ab_channel=JaidenAnimations\n\nJaidens' channel (if somehow you don't know her already): https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nTumblr ➤ http://theodd1sout.tumblr.com\n\nWebsite ➤ http://theodd1sout.com/\n\nFacebook ➤ https://www.facebook.com/theodd1sout\n\nTwitter ➤ https://twitter.com/Theodd1sout\n\nTapastic ➤ https://tapastic.com/theodd1sout"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/eQYXsLSzeEr3U1oEVtiDrDsTJxA\"",
+   "id": "-4N0L_-60gk",
+   "snippet": {
+    "publishedAt": "2016-10-02T15:05:07.000Z",
+    "channelId": "UClFSU9_bUb4Rc6OYfTt5SPw",
+    "title": "I'll probably delete this soon...",
+    "description": "Hey some big things are happening soon.  Lets talk about it while I look horrible and tired :)\nOH AND Remember to http://VoteDeFranco.com 100x a day!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-4N0L_-60gk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-4N0L_-60gk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-4N0L_-60gk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-4N0L_-60gk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-4N0L_-60gk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Philip DeFranco",
+    "tags": [
+     "sxephil",
+     "defranco",
+     "streamys",
+     "tired",
+     "video",
+     "win",
+     "award"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "I'll probably delete this soon...",
+     "description": "Hey some big things are happening soon.  Lets talk about it while I look horrible and tired :)\nOH AND Remember to http://VoteDeFranco.com 100x a day!"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/9u1BPOcSIeU7r0dzP-GO7gNVWOo\"",
+   "id": "LdnY1wHv29c",
+   "snippet": {
+    "publishedAt": "2016-10-01T18:33:18.000Z",
+    "channelId": "UC1IELV_s2HyyG3ZOj1l0hdQ",
+    "title": "WE BROKE UP :(",
+    "description": "Follow Us Twitch : https://www.twitch.tv/damienprince\n\nVlog Channel - https://www.youtube.com/channel/UC5LGPvoUOfwcLi4Ck8LiR4A\n\nPrank Channel - https://www.youtube.com/channel/UCeZL271BKSPDthUgzkNEy-w\n\nD&B Nation x2 Channel - https://www.youtube.com/channel/UCDEDdnTdPsiZ1JV9yR0inPw\n\nOur Social Media Links -\n\nᐅBiannca  Instagram: https://www.instagram.com/x_bianncaraines\nᐅDamien Instagram : https://www.instagram.com/damienprincejr\n\nᐅ Twitter : https://twitter.com/DamienPrinceJr\nᐅ Twitter : https://twitter.com/x_bianncaraines\n\nᐅSnap Chat : DamienPrinceJr\nᐅSnap Chat : BianncaRaines\n\nᐅFacebook : https://www.facebook.com/DamienPrinceJr\n\nBUSINESS INQUIRIES - damienprincejr@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LdnY1wHv29c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LdnY1wHv29c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LdnY1wHv29c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LdnY1wHv29c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LdnY1wHv29c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "D&B Nation",
+    "tags": [
+     "D&B Nation",
+     "Damien & Biannca",
+     "Couple Reacts",
+     "Reactions",
+     "Reacts",
+     "Pranks",
+     "Vlogs",
+     "Boyfriend vs Girlfriend",
+     "Try Not To Laugh",
+     "WSHH",
+     "Vine Compilations",
+     "Hilarious",
+     "Challenges",
+     "D&B",
+     "Nation",
+     "Damien Prince",
+     "Funny",
+     "Couples Reacts",
+     "Biannca",
+     "Damien"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "WE BROKE UP :(",
+     "description": "Follow Us Twitch : https://www.twitch.tv/damienprince\n\nVlog Channel - https://www.youtube.com/channel/UC5LGPvoUOfwcLi4Ck8LiR4A\n\nPrank Channel - https://www.youtube.com/channel/UCeZL271BKSPDthUgzkNEy-w\n\nD&B Nation x2 Channel - https://www.youtube.com/channel/UCDEDdnTdPsiZ1JV9yR0inPw\n\nOur Social Media Links -\n\nᐅBiannca  Instagram: https://www.instagram.com/x_bianncaraines\nᐅDamien Instagram : https://www.instagram.com/damienprincejr\n\nᐅ Twitter : https://twitter.com/DamienPrinceJr\nᐅ Twitter : https://twitter.com/x_bianncaraines\n\nᐅSnap Chat : DamienPrinceJr\nᐅSnap Chat : BianncaRaines\n\nᐅFacebook : https://www.facebook.com/DamienPrinceJr\n\nBUSINESS INQUIRIES - damienprincejr@gmail.com"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/NcimCUB6vi_andeX8z2IAxPoVL0\"",
+   "id": "7zDdHSSnCz8",
+   "snippet": {
+    "publishedAt": "2016-10-02T13:14:44.000Z",
+    "channelId": "UC1O6nGbccGhl2akEVaSpKsA",
+    "title": "Bud Light + Lady Gaga Dive Bar Tour \"Perfect Illusion\"",
+    "description": "Lady Gaga sets the stage for her upcoming Dive Bar Tour, featuring exclusive first looks at new music from her upcoming album, \"Joanne\". Available everywhere 10/20. Tune in to the first ever performance of #MillionReasons on Wednesday, October 5th at 10pm EST on Facebook Live.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7zDdHSSnCz8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7zDdHSSnCz8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7zDdHSSnCz8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7zDdHSSnCz8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7zDdHSSnCz8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Bud Light",
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Bud Light + Lady Gaga Dive Bar Tour \"Perfect Illusion\"",
+     "description": "Lady Gaga sets the stage for her upcoming Dive Bar Tour, featuring exclusive first looks at new music from her upcoming album, \"Joanne\". Available everywhere 10/20. Tune in to the first ever performance of #MillionReasons on Wednesday, October 5th at 10pm EST on Facebook Live."
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/-OkiKNWET4xyUbSmuL1729f3J-0\"",
+   "id": "2QiWu5AI--w",
+   "snippet": {
+    "publishedAt": "2016-10-01T16:00:01.000Z",
+    "channelId": "UCGCVyTWogzQ4D170BLy2Arw",
+    "title": "Painting a Car With NAIL POLISH ft. Threadbanger",
+    "description": "Bet you thought it couldn't be done...LEVEL UP! \nWatch Threadbanger's 100 coats video: https://youtu.be/2m7-Sk8YZOw\nWatch car painting outtakes: https://youtu.be/KqE87tFLCiw\nLast chance to get my HOLO shirts: http://bit.ly/SimplySwag6\n\n♡ Subscribe to never miss new nail art tutorials! http://bit.ly/subsimply\n♡ Subscribe to my SECOND CHANNEL for no reason: http://bit.ly/SubSimplyNot\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n♡ Nail polishes from my intro porno: http://bit.ly/SimplyNCollection1\n\n♡ My fav nail polishes, INTERNATIONAL shipping too ;)\nhttp://bit.ly/menchiesfaves1\n\n♡ My cat's very own nail polish: \nhttp://bit.ly/MenchieTheCatPolish1\n\n♡ My fav nail care products:\nhttp://bit.ly/favnailcare1\n\n♡ My fav nail art products (brushes, nail vinyls, loose glitter):\nhttp://bit.ly/nailvinyls1 \n\n♡ Even more nail art products (stamping, mats, decals):\nhttp://bit.ly/NailArtStuff1\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡PRODUCTS USED IN THIS VIDEO (in case you want to deck out your own car):♡\n\n♥ Holo polishes: http://bit.ly/SimplyNCollection1 or http://bit.ly/SimplyNCollectionFUN1\n♥ Ugly creme polishes: Walmart\n♥ White polish: http://bit.ly/CCFrenchTip1\n♥ Acrylic paint: http://amzn.to/2dKXZqS\n♥ Spray can nail polish: http://amzn.to/2dd95CY\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡CHECK OUT MY STASH:♡\n♥ My nail polish collection (August 2015): http://tinyurl.com/polishcollection\n♥ How to build nail polish shelves: http://tinyurl.com/buildapolishshelf\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡TIPS & TRICKS:♡\n\n♥ 20 NAIL ART HACKS: http://bit.ly/20DIYNailArtHacks\n♥ Best peel-off base coat?: http://bit.ly/BestPeelOffBaseCoatVid\n♥ Best black polish?: http://bit.ly/BestBlackPolish\n♥ Best white polish?: http://tinyurl.com/bestwhitepolish\n♥ Best peel-off skin protector?: http://tinyurl.com/peelofffaceoff\n♥ How to make AMAZING video tutorials: http://tinyurl.com/amazingnailvidtutorials\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡NAIL CARE:♡\n\n♥ Why YELLOW nails don't matter: http://tinyurl.com/yellownailsdontmatter\n♥ How to FILE and SHAPE your nails: http://bit.ly/FileYourNails\n♥ How I STOPPED my nail from BREAKING: http://bit.ly/SavedMyNail\n♥ How to GROW your nails: http://www.simplynailogical.com/2015/02/how-to-grow-your-nails-long.html\n♥ My fav nail care product for long healthy nails: http://bit.ly/favnailoil1\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n~ ~ ~ HAVE SOME FUN BEFORE YOU DIE ZONE ~ ~ ~\n\n♡MUSIC VIDEO PREMIERE♡\nSing the holo polish anthem with me:\nhttp://bit.ly/HoloItsMe\n\n♡$200 NAIL POLISH?!♡\nWTF:\nhttp://bit.ly/200dollarpolish\n\n♡How NOT to Watermarble♡\nLearn absolutely nothing here: http://tinyurl.com/howNOTtowatermarble\n\n♡How NOT to Stamp♡\nIt appears I can't do lots of nail things:\nhttp://bit.ly/howNOTtostamp\n\n♡WTF ARE BUBBLE NAILS:♡\nDon't ever do this to your nails:\nhttp://tinyurl.com/bubblenails\n\n♡How to refill your Simply Peel♡\nLearn four empirically tested ways:\nhttp://tinyurl.com/refillsimplypeel\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nStalk me on all the social medias!\n\nhttp://www.simplynailogical.com\nhttp://instagram.com/simplynailogical\nsnapchat: simplynailogica (no \"L\"!)\nhttps://twitter.com/nailogical\nhttps://www.facebook.com/simplynailogical\nhttps://youtube.com/user/simplynailogical\nhttp://simplynailogical.tumblr.com/\nhttp://www.pinterest.com/smplynailogical/nail-art-by-simply-nailogical/\nhttp://www.nailpolis.com/artists/simplynailogical\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nI film my videos with this camera: http://amzn.to/1Mgznht\nThis 105mm macro lens: http://amzn.to/1Pi8PM3\nThis 17-50mm lens: http://amzn.to/1JusW6x\nVlog camera: http://amzn.to/2dFBReG\nGoPro: http://amzn.to/2cH7Ybz\nGoPro car mount: http://amzn.to/2dFBBfL\n\nI edit my videos with: http://bit.ly/videoeditor1\n\nVoiceover mic: http://amzn.to/1MefGpG\nOn-camera shotgun mic: http://amzn.to/1HA9nz2\nExternal mic: http://amzn.to/2cU7t3j\n\nSee how to make your own amazing nail videos here: http://youtu.be/6k_GW0aso_k\n\nMusic: YouTube Audio Editor || Kevin MacLeod - Aces High, Sneaky Snitch, Electrodoodle, Fig Leaf Times Two | Gunnar Olsen - Volcano Trap\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nDisclaimer cause I love you guys: This video was not sponsored by any of the brands mentioned.  Some links above are affiliate links.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2QiWu5AI--w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2QiWu5AI--w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2QiWu5AI--w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2QiWu5AI--w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2QiWu5AI--w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Simply Nailogical",
+    "tags": [
+     "nails",
+     "nail art",
+     "nail tutorial",
+     "beauty tutorial",
+     "nail art tutorial",
+     "diy nails",
+     "easy nail art",
+     "diy nail art",
+     "cute nail art",
+     "100 coats",
+     "100 layers",
+     "polish mountain",
+     "car",
+     "cars",
+     "auto",
+     "automobile",
+     "hot rides",
+     "sweet rides",
+     "dubs",
+     "threadbanger",
+     "simply nailogical",
+     "holo",
+     "holosexual",
+     "paint a car with nail polish",
+     "challenge",
+     "craziest cars",
+     "celebrity cars"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Painting a Car With NAIL POLISH ft. Threadbanger",
+     "description": "Bet you thought it couldn't be done...LEVEL UP! \nWatch Threadbanger's 100 coats video: https://youtu.be/2m7-Sk8YZOw\nWatch car painting outtakes: https://youtu.be/KqE87tFLCiw\nLast chance to get my HOLO shirts: http://bit.ly/SimplySwag6\n\n♡ Subscribe to never miss new nail art tutorials! http://bit.ly/subsimply\n♡ Subscribe to my SECOND CHANNEL for no reason: http://bit.ly/SubSimplyNot\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n♡ Nail polishes from my intro porno: http://bit.ly/SimplyNCollection1\n\n♡ My fav nail polishes, INTERNATIONAL shipping too ;)\nhttp://bit.ly/menchiesfaves1\n\n♡ My cat's very own nail polish: \nhttp://bit.ly/MenchieTheCatPolish1\n\n♡ My fav nail care products:\nhttp://bit.ly/favnailcare1\n\n♡ My fav nail art products (brushes, nail vinyls, loose glitter):\nhttp://bit.ly/nailvinyls1 \n\n♡ Even more nail art products (stamping, mats, decals):\nhttp://bit.ly/NailArtStuff1\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡PRODUCTS USED IN THIS VIDEO (in case you want to deck out your own car):♡\n\n♥ Holo polishes: http://bit.ly/SimplyNCollection1 or http://bit.ly/SimplyNCollectionFUN1\n♥ Ugly creme polishes: Walmart\n♥ White polish: http://bit.ly/CCFrenchTip1\n♥ Acrylic paint: http://amzn.to/2dKXZqS\n♥ Spray can nail polish: http://amzn.to/2dd95CY\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡CHECK OUT MY STASH:♡\n♥ My nail polish collection (August 2015): http://tinyurl.com/polishcollection\n♥ How to build nail polish shelves: http://tinyurl.com/buildapolishshelf\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡TIPS & TRICKS:♡\n\n♥ 20 NAIL ART HACKS: http://bit.ly/20DIYNailArtHacks\n♥ Best peel-off base coat?: http://bit.ly/BestPeelOffBaseCoatVid\n♥ Best black polish?: http://bit.ly/BestBlackPolish\n♥ Best white polish?: http://tinyurl.com/bestwhitepolish\n♥ Best peel-off skin protector?: http://tinyurl.com/peelofffaceoff\n♥ How to make AMAZING video tutorials: http://tinyurl.com/amazingnailvidtutorials\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n♡NAIL CARE:♡\n\n♥ Why YELLOW nails don't matter: http://tinyurl.com/yellownailsdontmatter\n♥ How to FILE and SHAPE your nails: http://bit.ly/FileYourNails\n♥ How I STOPPED my nail from BREAKING: http://bit.ly/SavedMyNail\n♥ How to GROW your nails: http://www.simplynailogical.com/2015/02/how-to-grow-your-nails-long.html\n♥ My fav nail care product for long healthy nails: http://bit.ly/favnailoil1\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n~ ~ ~ HAVE SOME FUN BEFORE YOU DIE ZONE ~ ~ ~\n\n♡MUSIC VIDEO PREMIERE♡\nSing the holo polish anthem with me:\nhttp://bit.ly/HoloItsMe\n\n♡$200 NAIL POLISH?!♡\nWTF:\nhttp://bit.ly/200dollarpolish\n\n♡How NOT to Watermarble♡\nLearn absolutely nothing here: http://tinyurl.com/howNOTtowatermarble\n\n♡How NOT to Stamp♡\nIt appears I can't do lots of nail things:\nhttp://bit.ly/howNOTtostamp\n\n♡WTF ARE BUBBLE NAILS:♡\nDon't ever do this to your nails:\nhttp://tinyurl.com/bubblenails\n\n♡How to refill your Simply Peel♡\nLearn four empirically tested ways:\nhttp://tinyurl.com/refillsimplypeel\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nStalk me on all the social medias!\n\nhttp://www.simplynailogical.com\nhttp://instagram.com/simplynailogical\nsnapchat: simplynailogica (no \"L\"!)\nhttps://twitter.com/nailogical\nhttps://www.facebook.com/simplynailogical\nhttps://youtube.com/user/simplynailogical\nhttp://simplynailogical.tumblr.com/\nhttp://www.pinterest.com/smplynailogical/nail-art-by-simply-nailogical/\nhttp://www.nailpolis.com/artists/simplynailogical\n\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nI film my videos with this camera: http://amzn.to/1Mgznht\nThis 105mm macro lens: http://amzn.to/1Pi8PM3\nThis 17-50mm lens: http://amzn.to/1JusW6x\nVlog camera: http://amzn.to/2dFBReG\nGoPro: http://amzn.to/2cH7Ybz\nGoPro car mount: http://amzn.to/2dFBBfL\n\nI edit my videos with: http://bit.ly/videoeditor1\n\nVoiceover mic: http://amzn.to/1MefGpG\nOn-camera shotgun mic: http://amzn.to/1HA9nz2\nExternal mic: http://amzn.to/2cU7t3j\n\nSee how to make your own amazing nail videos here: http://youtu.be/6k_GW0aso_k\n\nMusic: YouTube Audio Editor || Kevin MacLeod - Aces High, Sneaky Snitch, Electrodoodle, Fig Leaf Times Two | Gunnar Olsen - Volcano Trap\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nDisclaimer cause I love you guys: This video was not sponsored by any of the brands mentioned.  Some links above are affiliate links."
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/WuUJ_SCFMEzNzDdFAMRmi78Y1ZM\"",
+   "id": "WdYgm4guNh0",
+   "snippet": {
+    "publishedAt": "2016-10-02T17:01:18.000Z",
+    "channelId": "UCKcGZgLvLdgD1o3dh7JadkA",
+    "title": "EPIC HAT TRICK SHOTS!",
+    "description": "DOWNLOAD OUR NEW APP, DONUT DAZZLE!\nhttp://www.donutdazzle.com/play\n\nBloopies: https://www.youtube.com/watch?v=w2XK27C9LyE&feature=youtu.be\n\nFollow Ya Boi:\nINSTAGRAM http://www.instagram.com/dtrixpix\nTweeter http://www.twitter.com/d_trix \nSnapchat @realdtrix\n\nBig shout outs to my Quest Crew Brotha's for helping me out on the vid! Make sure y'all follow them, THEIR IG GAME IS FIRE!\n\nHok https://www.instagram.com/hokutokonishi/\nRyanimay https://www.instagram.com/ryanigram\nAris https://www.instagram.com/freakinaris/\n\nShoutouts to my DMI team!\n\nJmocak http://www.instagram.com/jmocak\nJon Jon https://www.instagram.com/jonjovellanos/\nGreen http://www.instagram.com/greengaskell\nSubin http://www.instagram.com/iamsu_bin",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WdYgm4guNh0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WdYgm4guNh0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WdYgm4guNh0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WdYgm4guNh0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WdYgm4guNh0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "theDOMINICshow",
+    "tags": [
+     "d-trix",
+     "Trickshots",
+     "trick shots",
+     "Hat tricks",
+     "Dance",
+     "Dude Perfect",
+     "sytycd",
+     "abdc",
+     "fox",
+     "mtv",
+     "thedominicshow"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "EPIC HAT TRICK SHOTS!",
+     "description": "DOWNLOAD OUR NEW APP, DONUT DAZZLE!\nhttp://www.donutdazzle.com/play\n\nBloopies: https://www.youtube.com/watch?v=w2XK27C9LyE&feature=youtu.be\n\nFollow Ya Boi:\nINSTAGRAM http://www.instagram.com/dtrixpix\nTweeter http://www.twitter.com/d_trix \nSnapchat @realdtrix\n\nBig shout outs to my Quest Crew Brotha's for helping me out on the vid! Make sure y'all follow them, THEIR IG GAME IS FIRE!\n\nHok https://www.instagram.com/hokutokonishi/\nRyanimay https://www.instagram.com/ryanigram\nAris https://www.instagram.com/freakinaris/\n\nShoutouts to my DMI team!\n\nJmocak http://www.instagram.com/jmocak\nJon Jon https://www.instagram.com/jonjovellanos/\nGreen http://www.instagram.com/greengaskell\nSubin http://www.instagram.com/iamsu_bin"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/__Kr5PfKvGtHnGPQwLcQZl9JGj0\"",
+   "id": "UqADuUBMoZ4",
+   "snippet": {
+    "publishedAt": "2016-10-01T15:46:37.000Z",
+    "channelId": "UCtinbF-Q-fVthA0qrFQTgXQ",
+    "title": "five million",
+    "description": "Jack's Post about Marlan https://medium.com/@jackycoyne/my-friend-marlan-bde29643c3ba#.hvamo04pk\n\nMY GEAR;\n\nDRONE I FILMED TODAY'S VLOG ON; http://amzn.to/2d6cP7v\nBIG CAMERA; http://tinyurl.com/jn4q4vz\nBENDY TRIPOD THING; http://tinyurl.com/gw3ylz2\nYOU NEED THIS FOR THE BENDY TRIPOD; http://tinyurl.com/j8mzzua\nWIDE LENS; http://tinyurl.com/jkfcm8t\nMORE EXPENSIVE WIDE LENS; http://tinyurl.com/zrdgtou\nSMALL CAMERA; http://tinyurl.com/hrrzhor\nMICROPHONE; http://tinyurl.com/zefm4jy\nOTHER MICROPHONE; http://tinyurl.com/jxgpj86\nDRONE; http://tinyurl.com/h4ft3oy\nOLD DRONE (cheaper but still great);http://tinyurl.com/zcfmnmd\nEXPENSIVE CAMERA I DON’T USE ENOUGH; http://tinyurl.com/hurfrub\n\nfollow me; on http://instagram.com/caseyneistat\non https://www.facebook.com/cneistat\non https://twitter.com/CaseyNeistat\n\nmusic by Dyalla Swain https://soundcloud.com/dyallas",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UqADuUBMoZ4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UqADuUBMoZ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UqADuUBMoZ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UqADuUBMoZ4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "CaseyNeistat",
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "five million",
+     "description": "Jack's Post about Marlan https://medium.com/@jackycoyne/my-friend-marlan-bde29643c3ba#.hvamo04pk\n\nMY GEAR;\n\nDRONE I FILMED TODAY'S VLOG ON; http://amzn.to/2d6cP7v\nBIG CAMERA; http://tinyurl.com/jn4q4vz\nBENDY TRIPOD THING; http://tinyurl.com/gw3ylz2\nYOU NEED THIS FOR THE BENDY TRIPOD; http://tinyurl.com/j8mzzua\nWIDE LENS; http://tinyurl.com/jkfcm8t\nMORE EXPENSIVE WIDE LENS; http://tinyurl.com/zrdgtou\nSMALL CAMERA; http://tinyurl.com/hrrzhor\nMICROPHONE; http://tinyurl.com/zefm4jy\nOTHER MICROPHONE; http://tinyurl.com/jxgpj86\nDRONE; http://tinyurl.com/h4ft3oy\nOLD DRONE (cheaper but still great);http://tinyurl.com/zcfmnmd\nEXPENSIVE CAMERA I DON’T USE ENOUGH; http://tinyurl.com/hurfrub\n\nfollow me; on http://instagram.com/caseyneistat\non https://www.facebook.com/cneistat\non https://twitter.com/CaseyNeistat\n\nmusic by Dyalla Swain https://soundcloud.com/dyallas"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/AaH8Ep9JQ-HZKG5y7gSOeyOzZo8\"",
+   "id": "lUbLZiFd9V8",
+   "snippet": {
+    "publishedAt": "2016-10-01T13:00:04.000Z",
+    "channelId": "UC6-ymYjG0SU0jUWnWh9ZzEQ",
+    "title": "Hidden Meaning in THE PURGE – Earthling Cinema",
+    "description": "Join Wisecrack! Subscribe! ►►http://bit.ly/1y8Veir \nSupport Wisecrack on Patreon!  ►► http://wscrk.com/PatreonWC\nCheck out The Film Theorists! ►► http://wscrk.com/FlmThrsts\n\nWhat if an alien in the future stumbled upon James DeMonaco's The Purge? Welcome to Earthling Cinema, where we examine the last remaining artifacts of a once-proud culture and try to understand what human lives were like before their planet was destroyed. I'm your host, Garyx Wormuloid.\n\nThis week's film: \nThe Purge (2013)\nStars: Ethan Hawke, Lena Headey, Adelaide Kane, Max Burkholder \nDirector: James DeMonaco\nProduction Co: Blumhouse Productions, Platinum Dunes\n\n=== Get the Movie! === \nDigital Download ► http://amzn.to/2cCfbtw\nDVD/Blu-ray ► http://amzn.to/2cCeIYh\n\n=== More Episodes! ===\nSHREK ► http://wscrk.com/ShrekEC\nBIRDMAN ► http://wscrk.com/BrdmnEC\nHOW TO TRAIN YOUR DRAGON ► http://wscrk.com/HtTYDEC\nBATMAN V SUPERMAN: DAWN OF JUSTICE ► http://wscrk.com/BatvSupEC\n\n\n=== Connect with us on Social Media! ===\nFACEBOOK ►► facebook.com/earthlingcinema\nTWITTER  ►► @EarthlingCinema\n\nGet Email Alerts ►► http://eepurl.com/bcSRD9 \nCheck out our Merch! ►► http://www.wisecrack.co/store \n\nImage usage:\nhttps://www.flickr.com/photos/chicagopublicradio/11439698513/\nLicensed from WBEZ/Greg Scott under Creative Commons (CC BY-NC 2.0)\n\n\nWritten by: Ben Steiner\nDirected by: Jared Bauer\nAnalysis and Co-Writing by: Kevin Winzer\nStarring: Mark Schroeder (https://twitter.com/mark_schroeder)\nEdited by: Ryan Hailey (http://www.ryanhaileydotcom.com/)\nOriginal Music by: David Krystal (http://www.davidkrystalmusic.com)\nOpening Animation by: Danny Rapaport\nProduced by: Jacob S. Salamon\n\n© 2016 Wisecrack, Inc.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lUbLZiFd9V8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lUbLZiFd9V8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lUbLZiFd9V8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lUbLZiFd9V8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lUbLZiFd9V8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Wisecrack",
+    "tags": [
+     "the purge",
+     "purge",
+     "The Purge (2013 film)",
+     "Film Analysis",
+     "Cinematography (Field Of Study)",
+     "Film Studies (Field Of Study)",
+     "Earthling Cinema",
+     "Garyx Wormuloid",
+     "thugnotes",
+     "Wisecrack Edition",
+     "Wisecrack",
+     "8-bit Philosophy"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Hidden Meaning in THE PURGE – Earthling Cinema",
+     "description": "Join Wisecrack! Subscribe! ►►http://bit.ly/1y8Veir \nSupport Wisecrack on Patreon!  ►► http://wscrk.com/PatreonWC\nCheck out The Film Theorists! ►► http://wscrk.com/FlmThrsts\n\nWhat if an alien in the future stumbled upon James DeMonaco's The Purge? Welcome to Earthling Cinema, where we examine the last remaining artifacts of a once-proud culture and try to understand what human lives were like before their planet was destroyed. I'm your host, Garyx Wormuloid.\n\nThis week's film: \nThe Purge (2013)\nStars: Ethan Hawke, Lena Headey, Adelaide Kane, Max Burkholder \nDirector: James DeMonaco\nProduction Co: Blumhouse Productions, Platinum Dunes\n\n=== Get the Movie! === \nDigital Download ► http://amzn.to/2cCfbtw\nDVD/Blu-ray ► http://amzn.to/2cCeIYh\n\n=== More Episodes! ===\nSHREK ► http://wscrk.com/ShrekEC\nBIRDMAN ► http://wscrk.com/BrdmnEC\nHOW TO TRAIN YOUR DRAGON ► http://wscrk.com/HtTYDEC\nBATMAN V SUPERMAN: DAWN OF JUSTICE ► http://wscrk.com/BatvSupEC\n\n\n=== Connect with us on Social Media! ===\nFACEBOOK ►► facebook.com/earthlingcinema\nTWITTER  ►► @EarthlingCinema\n\nGet Email Alerts ►► http://eepurl.com/bcSRD9 \nCheck out our Merch! ►► http://www.wisecrack.co/store \n\nImage usage:\nhttps://www.flickr.com/photos/chicagopublicradio/11439698513/\nLicensed from WBEZ/Greg Scott under Creative Commons (CC BY-NC 2.0)\n\n\nWritten by: Ben Steiner\nDirected by: Jared Bauer\nAnalysis and Co-Writing by: Kevin Winzer\nStarring: Mark Schroeder (https://twitter.com/mark_schroeder)\nEdited by: Ryan Hailey (http://www.ryanhaileydotcom.com/)\nOriginal Music by: David Krystal (http://www.davidkrystalmusic.com)\nOpening Animation by: Danny Rapaport\nProduced by: Jacob S. Salamon\n\n© 2016 Wisecrack, Inc."
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/Bnwb0h8JClGoXtzfiMXD--uaw1M\"",
+   "id": "OjU_5otbyO0",
+   "snippet": {
+    "publishedAt": "2016-10-02T13:43:44.000Z",
+    "channelId": "UChZbXdiveXJ4hVXHlPOFLqw",
+    "title": "#BlackLivesMatter vandalizes Trump Hotel in DC",
+    "description": "#BlackLivesMatter vandalizes Trump Hotel in DC...Shameful fight injustice by committing crime. Yea that will do it.\n\n\n\nPatreon https://www.patreon.com/user?u=3812699\nListen to my Podcast and follow me on Twitter\npodcast https://soundcloud.com/handymayhem\ntwitter https://twitter.com/handymayhem\nhttp://hotepnation.com/shop/\nhttp://unclehotep.storenvy.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OjU_5otbyO0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OjU_5otbyO0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OjU_5otbyO0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Handy Mayhem",
+    "tags": [
+     "Trump",
+     "#BlackLivesMatter",
+     "BLM"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "#BlackLivesMatter vandalizes Trump Hotel in DC",
+     "description": "#BlackLivesMatter vandalizes Trump Hotel in DC...Shameful fight injustice by committing crime. Yea that will do it.\n\n\n\nPatreon https://www.patreon.com/user?u=3812699\nListen to my Podcast and follow me on Twitter\npodcast https://soundcloud.com/handymayhem\ntwitter https://twitter.com/handymayhem\nhttp://hotepnation.com/shop/\nhttp://unclehotep.storenvy.com"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/ys-TKnHjL8vb72dw-AkWXqypK1U\"",
+   "id": "rntW9mjrgbU",
+   "snippet": {
+    "publishedAt": "2016-10-01T16:00:08.000Z",
+    "channelId": "UCzWQYUVCpZqtN93H8RR44Qw",
+    "title": "What Is Deodorant Really Doing To Your Body?",
+    "description": "Most of us use it everyday, but do we know how it works? What does deodorant do to our bodies? \r\n\r\nWhat Are Pheromones & Can They Help Get You Laid? - https://youtu.be/Nbl9NxgSUw8 \r\nSign Up For The Seeker Newsletter Here - http://bit.ly/1UO1PxI \r\n\r\nRead More:\r\nHow Advertisers Convinced Americans They Smelled Bad\r\nhttp://www.smithsonianmag.com/history/how-advertisers-convinced-americans-they-smelled-bad-12552404/?no-ist \r\n\"In the 1910s deodorants and antiperspirants were relatively new inventions. The first deodorant, which kills odor-producing bacteria, was called Mum and had been trademarked in 1888, while the first antiperspirant, which thwarts both sweat-production and bacterial growth, was called Everdry and launched in 1903.\"\r\n\r\nAntiperspirant use and the risk of breast cancer \r\nhttps://www.ncbi.nlm.nih.gov/pubmed/12381712 \r\n\"The rumor that antiperspirant use causes breast cancer continues to circulate the Internet. Although unfounded, there have been no published epidemiologic studies to support or refute this claim. This population-based case- control study investigated a possible relationship between use of products applied for underarm perspiration and the risk for breast cancer in women aged 20-74 years.\"\r\n\r\nThe effect of habitual and experimental antiperspirant  and deodorant product use on the armpit microbiome\r\nhttps://peerj.com/articles/1605/ \r\n\"The human armpit has long been noted to host a high biomass bacterial community, and recent studies have highlighted substantial inter-individual variation in armpit bacteria, even relative to variation among individuals for other body habitats. One obvious potential explanation for this variation has to do with the use of personal hygiene products, particularly deodorants and antiperspirants.\"\r\n____________________\r\n\r\nDNews is dedicated to satisfying your curiosity and to bringing you mind-bending stories & perspectives you won't find anywhere else! New videos daily. \r\n\r\nWatch More DNews on Seeker http://www.seeker.com/show/dnews/\r\n\r\nSubscribe now! http://www.youtube.com/subscription_center?add_user=dnewschannel\r\n\r\nDNews on Twitter http://twitter.com/dnews\r\n\r\nTrace Dominguez on Twitter https://twitter.com/tracedominguez\r\n\r\nDNews on Facebook https://facebook.com/DiscoveryNews\r\n\r\nDNews on Google+ http://gplus.to/dnews\r\n\r\nDiscovery News http://discoverynews.com\r\n\r\nSign Up For The Seeker Newsletter Here: http://bit.ly/1UO1PxI \r\n\r\nSpecial thanks to Jackie Koppell for co-hosting DNews!\r\nCheck Jackie out on Twitter: https://twitter.com/jackiekoppell",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rntW9mjrgbU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rntW9mjrgbU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rntW9mjrgbU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rntW9mjrgbU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rntW9mjrgbU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "DNews",
+    "tags": [
+     "current events",
+     "Science",
+     "deodorant",
+     "antiperspirant",
+     "Health",
+     "Cancer",
+     "armpit",
+     "sweat",
+     "sweating",
+     "sports",
+     "smell",
+     "odor",
+     "perspire",
+     "skin",
+     "dermatology",
+     "microbiome",
+     "is deodorant bad for you",
+     "research",
+     "advertisers",
+     "scam",
+     "what is in deodorant",
+     "irritate",
+     "irritation",
+     "allergic",
+     "bacteria",
+     "bacterial",
+     "body",
+     "d news",
+     "dnews",
+     "education",
+     "educational",
+     "science",
+     "discovery news",
+     "c-Health & Medicine",
+     "age=14 15 16 17"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "What Is Deodorant Really Doing To Your Body?",
+     "description": "Most of us use it everyday, but do we know how it works? What does deodorant do to our bodies? \r\n\r\nWhat Are Pheromones & Can They Help Get You Laid? - https://youtu.be/Nbl9NxgSUw8 \r\nSign Up For The Seeker Newsletter Here - http://bit.ly/1UO1PxI \r\n\r\nRead More:\r\nHow Advertisers Convinced Americans They Smelled Bad\r\nhttp://www.smithsonianmag.com/history/how-advertisers-convinced-americans-they-smelled-bad-12552404/?no-ist \r\n\"In the 1910s deodorants and antiperspirants were relatively new inventions. The first deodorant, which kills odor-producing bacteria, was called Mum and had been trademarked in 1888, while the first antiperspirant, which thwarts both sweat-production and bacterial growth, was called Everdry and launched in 1903.\"\r\n\r\nAntiperspirant use and the risk of breast cancer \r\nhttps://www.ncbi.nlm.nih.gov/pubmed/12381712 \r\n\"The rumor that antiperspirant use causes breast cancer continues to circulate the Internet. Although unfounded, there have been no published epidemiologic studies to support or refute this claim. This population-based case- control study investigated a possible relationship between use of products applied for underarm perspiration and the risk for breast cancer in women aged 20-74 years.\"\r\n\r\nThe effect of habitual and experimental antiperspirant  and deodorant product use on the armpit microbiome\r\nhttps://peerj.com/articles/1605/ \r\n\"The human armpit has long been noted to host a high biomass bacterial community, and recent studies have highlighted substantial inter-individual variation in armpit bacteria, even relative to variation among individuals for other body habitats. One obvious potential explanation for this variation has to do with the use of personal hygiene products, particularly deodorants and antiperspirants.\"\r\n____________________\r\n\r\nDNews is dedicated to satisfying your curiosity and to bringing you mind-bending stories & perspectives you won't find anywhere else! New videos daily. \r\n\r\nWatch More DNews on Seeker http://www.seeker.com/show/dnews/\r\n\r\nSubscribe now! http://www.youtube.com/subscription_center?add_user=dnewschannel\r\n\r\nDNews on Twitter http://twitter.com/dnews\r\n\r\nTrace Dominguez on Twitter https://twitter.com/tracedominguez\r\n\r\nDNews on Facebook https://facebook.com/DiscoveryNews\r\n\r\nDNews on Google+ http://gplus.to/dnews\r\n\r\nDiscovery News http://discoverynews.com\r\n\r\nSign Up For The Seeker Newsletter Here: http://bit.ly/1UO1PxI \r\n\r\nSpecial thanks to Jackie Koppell for co-hosting DNews!\r\nCheck Jackie out on Twitter: https://twitter.com/jackiekoppell"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/EyG3tHaZ0ybRRHWpaN8mT1Ex-XA\"",
+   "id": "jMnsep0NiIo",
+   "snippet": {
+    "publishedAt": "2016-10-01T19:00:01.000Z",
+    "channelId": "UCxSklFRi7f0arLqjBWScTzA",
+    "title": "DIY GIANT GALAXY MARSHMALLO & IPHONE 7 DROPTEST/GIVEAWAY!!!",
+    "description": "Become a MARMAR!!: http://bit.ly/SubscribeToMarlin\nTODAY I DIY A GIANT GALAXY MARSHMALLOW I also DROP TEST an IPHONE 7!! & i Am going to give it away just follow me on twitter here! and leave a sweet tweet. Twitter: http://bit.ly/MarlinTwitter\n\n\nCheckout all my latest DIY's & Experiments in this Playlist!:\nhttps://www.youtube.com/playlist?list=PLo0upBjMsyYSuEpJmeZmXrweZ3y8Nasii\n\nCheckout all My Life Logs (Daily Vlog)  Here!:\nhttps://www.youtube.com/playlist?list=PLo0upBjMsyYQwRHtNzGaoJrVgGyWebl1s\n\nCheck Out These Cool Vids!:\n\nDIY GIANT MARSHMALLOW!!!\nhttps://www.youtube.com/watch?v=SwlBroL-XW8&list=PLo0upBjMsyYSuEpJmeZmXrweZ3y8Nasii&index=10\n\n\nDIY Wassabi Gum Prank!!!!!!:\nhttps://www.youtube.com/watch?v=HPtlS8BLatM&list=PLo0upBjMsyYSuEpJmeZmXrweZ3y8Nasii&index=9\n\nSubscribe: http://bit.ly/SubscribeToMarlin\nTwitter: http://bit.ly/MarlinTwitter\nInstagram: http://bit.ly/MarlinInstagram\nFacebook: http://bit.ly/MarlinFB\n\nHeres how to be in my Life Logs:\n1. Make a video saying\"This is a commercial by _(Yourname)_ from _(Where You live) and your watching Life Logs.\" \n2.Upload to youtube and set to unlisted \n3.Email to : Lifelogclip@gmail.com\n4. Check to see if you made it! people will be featured in every life log!\n\n\n\nHi, I'm Marlin I make DIY, Gaming, And Vlog Videos. I post a video every single day at 12pm PST. Occasionally I do some pretty crazy stuff with my cousin Guava Juice A.K.A Guava Roi. I love to cook and make things I just never posted it on the interwebz untill now! Random Facts: I am Cambodian american and a Staged trained actor.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jMnsep0NiIo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jMnsep0NiIo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jMnsep0NiIo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jMnsep0NiIo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jMnsep0NiIo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Marlin",
+    "tags": [
+     "Marlin diy",
+     "marlin ramsey chan",
+     "marlin ramsey",
+     "marlin chan",
+     "marmarchanmar",
+     "marlin wassabi",
+     "marlin wasabi",
+     "marlon wassabi",
+     "cambodian",
+     "cambodia",
+     "cambodian youtuber",
+     "cambodian youtube",
+     "DIY",
+     "Howto",
+     "no",
+     "cursing",
+     "swearing",
+     "bad",
+     "words",
+     "marmar",
+     "diyking",
+     "iphone7",
+     "drop test",
+     "GIANT Marshmallow",
+     "diy giant",
+     "giant",
+     "iphone marshmallow drop test",
+     "iphone",
+     "iphone 7",
+     "marshmallows",
+     "drop",
+     "smash",
+     "crazy",
+     "Galaxy DIY",
+     "GIANT GALAXY MARSHMALLOW",
+     "giveaway"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "DIY GIANT GALAXY MARSHMALLO & IPHONE 7 DROPTEST/GIVEAWAY!!!",
+     "description": "Become a MARMAR!!: http://bit.ly/SubscribeToMarlin\nTODAY I DIY A GIANT GALAXY MARSHMALLOW I also DROP TEST an IPHONE 7!! & i Am going to give it away just follow me on twitter here! and leave a sweet tweet. Twitter: http://bit.ly/MarlinTwitter\n\n\nCheckout all my latest DIY's & Experiments in this Playlist!:\nhttps://www.youtube.com/playlist?list=PLo0upBjMsyYSuEpJmeZmXrweZ3y8Nasii\n\nCheckout all My Life Logs (Daily Vlog)  Here!:\nhttps://www.youtube.com/playlist?list=PLo0upBjMsyYQwRHtNzGaoJrVgGyWebl1s\n\nCheck Out These Cool Vids!:\n\nDIY GIANT MARSHMALLOW!!!\nhttps://www.youtube.com/watch?v=SwlBroL-XW8&list=PLo0upBjMsyYSuEpJmeZmXrweZ3y8Nasii&index=10\n\n\nDIY Wassabi Gum Prank!!!!!!:\nhttps://www.youtube.com/watch?v=HPtlS8BLatM&list=PLo0upBjMsyYSuEpJmeZmXrweZ3y8Nasii&index=9\n\nSubscribe: http://bit.ly/SubscribeToMarlin\nTwitter: http://bit.ly/MarlinTwitter\nInstagram: http://bit.ly/MarlinInstagram\nFacebook: http://bit.ly/MarlinFB\n\nHeres how to be in my Life Logs:\n1. Make a video saying\"This is a commercial by _(Yourname)_ from _(Where You live) and your watching Life Logs.\" \n2.Upload to youtube and set to unlisted \n3.Email to : Lifelogclip@gmail.com\n4. Check to see if you made it! people will be featured in every life log!\n\n\n\nHi, I'm Marlin I make DIY, Gaming, And Vlog Videos. I post a video every single day at 12pm PST. Occasionally I do some pretty crazy stuff with my cousin Guava Juice A.K.A Guava Roi. I love to cook and make things I just never posted it on the interwebz untill now! Random Facts: I am Cambodian american and a Staged trained actor."
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/ftRn1O4SMMncOuzIbPJIktw3xL0\"",
+   "id": "oEsP4_1ImUI",
+   "snippet": {
+    "publishedAt": "2016-10-01T04:40:07.000Z",
+    "channelId": "UCy6kyFxaMqGtpE3pQTflK8A",
+    "title": "New Rule: Trump's Basket of Inexplicables | Real Time with Bill Maher (HBO)",
+    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nIn his editorial New Rule, Bill Maher examines Trump's surrogates, and questions whether this cast of characters would be fit to serve in a Presidential administration. Original Air Date: September 30, 2016 \n\nConnect with Real Time Online:\nFind Real Time on Facebook: https://www.facebook.com/Maher\nFind Real Time on Twitter: https://twitter.com/RealTimers\nFind Real Time with Bill Maher Official Site: http://itsh.bo/HttKcM.\nFind Real Time with Bill Maher on HBO GO® http://itsh.bo/iioY87.\nFind Real Time with Bill Maher on Connect: http://connect.hbo.com/real-time-bill-maher\nFind Real Time on Instagram: http://instagram.com/realtimers\nThe Real Time blog: http://www.real-time-with-bill-maher-blog.com/\n\nIt's HBO.\n\nConnect with HBO Online\nFind HBO on Facebook: http://Facebook.com/HBO\nFollow @HBO on Twitter: http://Twitter.com/HBO\nFind HBO on Youtube: http://Youtube.com/HBO\nFind HBO Official Site: http://HBO.com\nFind HBO Connect: http://Connect.hbo.com\nFind HBO GO: http://HBOGO.com\nFind HBO on Instagram: http://Instagram.com/hbo\nFind HBO on Foursquare: http://Foursquare.com/hbo\n\nCheck out other HBO Channels\nHBO: http://www.youtube.com/hbo\nGame of Thrones: http://www.youtube.com/GameofThrones \nTrue Blood: http://www.youtube.com/trueblood \nHBO Sports: http://www.youtube.com/HBOsports \nHBO Documentary Films: http://www.youtube.com/HBODocs \nCinemax: http://www.youtube.com/Cinemax \nHBO Latino: http://www.youtube.com/HBOLatino",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oEsP4_1ImUI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oEsP4_1ImUI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oEsP4_1ImUI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oEsP4_1ImUI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oEsP4_1ImUI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Real Time with Bill Maher",
+    "tags": [
+     "Sean Penn (actor)",
+     "Academy Award",
+     "narrator",
+     "audio book",
+     "Pappy Pariah titled",
+     "Bob Honey Who Just Do Stuff",
+     "Sarah Silverman (comedian)",
+     "actress and comedian",
+     "Peter Hamby",
+     "Snapchat",
+     "Good Luck America",
+     "Steve Moore",
+     "Economic Advisor",
+     "Donald Trump",
+     "Fueling Freedom",
+     "Exposing the Mad War on Energy",
+     "Angela Rye",
+     "CNN",
+     "Political Commentator",
+     "NPR",
+     "Political Analyst"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "New Rule: Trump's Basket of Inexplicables | Real Time with Bill Maher (HBO)",
+     "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nIn his editorial New Rule, Bill Maher examines Trump's surrogates, and questions whether this cast of characters would be fit to serve in a Presidential administration. Original Air Date: September 30, 2016 \n\nConnect with Real Time Online:\nFind Real Time on Facebook: https://www.facebook.com/Maher\nFind Real Time on Twitter: https://twitter.com/RealTimers\nFind Real Time with Bill Maher Official Site: http://itsh.bo/HttKcM.\nFind Real Time with Bill Maher on HBO GO® http://itsh.bo/iioY87.\nFind Real Time with Bill Maher on Connect: http://connect.hbo.com/real-time-bill-maher\nFind Real Time on Instagram: http://instagram.com/realtimers\nThe Real Time blog: http://www.real-time-with-bill-maher-blog.com/\n\nIt's HBO.\n\nConnect with HBO Online\nFind HBO on Facebook: http://Facebook.com/HBO\nFollow @HBO on Twitter: http://Twitter.com/HBO\nFind HBO on Youtube: http://Youtube.com/HBO\nFind HBO Official Site: http://HBO.com\nFind HBO Connect: http://Connect.hbo.com\nFind HBO GO: http://HBOGO.com\nFind HBO on Instagram: http://Instagram.com/hbo\nFind HBO on Foursquare: http://Foursquare.com/hbo\n\nCheck out other HBO Channels\nHBO: http://www.youtube.com/hbo\nGame of Thrones: http://www.youtube.com/GameofThrones \nTrue Blood: http://www.youtube.com/trueblood \nHBO Sports: http://www.youtube.com/HBOsports \nHBO Documentary Films: http://www.youtube.com/HBODocs \nCinemax: http://www.youtube.com/Cinemax \nHBO Latino: http://www.youtube.com/HBOLatino"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/olFE_rDLHUojibqNhbgkihCVlpk\"",
+   "id": "2m7-Sk8YZOw",
+   "snippet": {
+    "publishedAt": "2016-10-01T16:01:30.000Z",
+    "channelId": "UCBMxQPhfM6nkhQ8vPfQhkCg",
+    "title": "100 Gallons of Nail Polish Ft. SimplyNailogical - Man Vs Pin #100",
+    "description": "Watch our Collab with Simplynailogical HERE: https://www.youtube.com/watch?v=2QiWu5AI--w\nSubscribe: http://www.bit.ly/12rVBFV\nCheck Back SOON for EPISODE 100.5 !!!\n\n\nFind us else where on the World Wide Webs:\nhttp://www.facebook.com/threadbanger\nhttp://www.twitter.com/threadbanger\nhttp://threadbanger.tumblr.com\nInstagram @ThreadbangerStudios\nMusic By: Kevin Macleod and Found at www.incompetech.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2m7-Sk8YZOw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2m7-Sk8YZOw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2m7-Sk8YZOw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2m7-Sk8YZOw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2m7-Sk8YZOw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ThreadBanger",
+    "tags": [
+     "DIY",
+     "threadbanger",
+     "Corinne Leigh",
+     "Rob Czar",
+     "how to",
+     "man vs pin",
+     "simplynailogical",
+     "polish mountain",
+     "100 coats challenge",
+     "100 gallons of nail polish",
+     "nail polish",
+     "man vs pin 100",
+     "episode 100"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "100 Gallons of Nail Polish Ft. SimplyNailogical - Man Vs Pin #100",
+     "description": "Watch our Collab with Simplynailogical HERE: https://www.youtube.com/watch?v=2QiWu5AI--w\nSubscribe: http://www.bit.ly/12rVBFV\nCheck Back SOON for EPISODE 100.5 !!!\n\n\nFind us else where on the World Wide Webs:\nhttp://www.facebook.com/threadbanger\nhttp://www.twitter.com/threadbanger\nhttp://threadbanger.tumblr.com\nInstagram @ThreadbangerStudios\nMusic By: Kevin Macleod and Found at www.incompetech.com"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/BhcbnnsXzITXHU3PnzSKSDVeCyo\"",
+   "id": "BHkheN5ARK8",
+   "snippet": {
+    "publishedAt": "2016-10-01T16:05:01.000Z",
+    "channelId": "UCPDXXXJj9nax0fr0Wfc048g",
+    "title": "Wait: Is This Video BRANDED?!",
+    "description": "Watch these ad gumshoes dig up the TRUTH about the branded shill in their midst.\n\nSee more http://www.collegehumor.com\nLIKE us on: http://www.facebook.com/collegehumor\nFOLLOW us on: http://www.twitter.com/collegehumor\nFOLLOW us on: http://www.collegehumor.tumblr.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BHkheN5ARK8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BHkheN5ARK8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BHkheN5ARK8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BHkheN5ARK8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BHkheN5ARK8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CollegeHumor",
+    "tags": [
+     "Collegehumor",
+     "CH originals",
+     "comedy",
+     "sketch comedy",
+     "internet",
+     "humor",
+     "funny",
+     "sketch",
+     "badvertising",
+     "branded",
+     "shill"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Wait: Is This Video BRANDED?!",
+     "description": "Watch these ad gumshoes dig up the TRUTH about the branded shill in their midst.\n\nSee more http://www.collegehumor.com\nLIKE us on: http://www.facebook.com/collegehumor\nFOLLOW us on: http://www.twitter.com/collegehumor\nFOLLOW us on: http://www.collegehumor.tumblr.com"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/WNlYHfuLnjtqgJY733s4vdE5_qg\"",
+   "id": "mfo3EW9Pmu8",
+   "snippet": {
+    "publishedAt": "2016-10-01T10:30:01.000Z",
+    "channelId": "UCjD2KyAEm84yVH8cTilID7Q",
+    "title": "How One Escaped Slave Changed The American Civil War Forever",
+    "description": "SUBSCRIBE HERE: http://goo.gl/ITTCPW\n\nEthan Hunt has six movies and he wasn't even real. Where's the Hollywood love for Robert Smalls?\n\nCLICK HERE for our new series, INTERNET CONTENT - \nhttps://goo.gl/okgTNm\n\nCLICK HERE for our new series, WE'RE NOT ALONE - http://goo.gl/cC9L5o\nCLICK HERE for more ROM.COM SEASON 3 - https://www.youtube.com/playlist?list...\nCLICK HERE for more ROM.COM SEASON 2 - https://www.youtube.com/playlist?list...\nCLICK HERE for more ROM.COM SEASON 1 - http://goo.gl/dWNuKx\nCLICK HERE For more AFTER HOURS: http://goo.gl/Nrg6Jh\nCLICK HERE For the CinemaSins Team-Up Playlist: http://goo.gl/6Fr465\nWATCH every episode of STARSHIP ICARUS here - http://goo.gl/21RejZ\n\nSee more http://www.cracked.com\nLIKE us on: http://www.facebook.com/cracked\nFOLLOW us on: http://www.twitter.com/cracked\nFOLLOW us on: http://cracked.tumblr.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mfo3EW9Pmu8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mfo3EW9Pmu8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mfo3EW9Pmu8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mfo3EW9Pmu8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mfo3EW9Pmu8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Cracked",
+    "tags": [
+     "civil war",
+     "slaves",
+     "union",
+     "confederate soldiers",
+     "union soldiers",
+     "Robert Smalls",
+     "Animation",
+     "History lesson",
+     "history book",
+     "African-American",
+     "cartoon",
+     "cracked",
+     "cracked.com",
+     "sketch",
+     "comedy",
+     "spoof",
+     "humor",
+     "satire",
+     "parody"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "How One Escaped Slave Changed The American Civil War Forever",
+     "description": "SUBSCRIBE HERE: http://goo.gl/ITTCPW\n\nEthan Hunt has six movies and he wasn't even real. Where's the Hollywood love for Robert Smalls?\n\nCLICK HERE for our new series, INTERNET CONTENT - \nhttps://goo.gl/okgTNm\n\nCLICK HERE for our new series, WE'RE NOT ALONE - http://goo.gl/cC9L5o\nCLICK HERE for more ROM.COM SEASON 3 - https://www.youtube.com/playlist?list...\nCLICK HERE for more ROM.COM SEASON 2 - https://www.youtube.com/playlist?list...\nCLICK HERE for more ROM.COM SEASON 1 - http://goo.gl/dWNuKx\nCLICK HERE For more AFTER HOURS: http://goo.gl/Nrg6Jh\nCLICK HERE For the CinemaSins Team-Up Playlist: http://goo.gl/6Fr465\nWATCH every episode of STARSHIP ICARUS here - http://goo.gl/21RejZ\n\nSee more http://www.cracked.com\nLIKE us on: http://www.facebook.com/cracked\nFOLLOW us on: http://www.twitter.com/cracked\nFOLLOW us on: http://cracked.tumblr.com"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/1ucho-Hw_Pwe4_WsVFqz0iGq1GU\"",
+   "id": "uY89pjXa-EU",
+   "snippet": {
+    "publishedAt": "2016-10-02T02:49:39.000Z",
+    "channelId": "UCHqC-yWZ1kri4YzwRSt6RGQ",
+    "title": "TRUMP UNLEASHED: Donald Trump Full Speech in Manheim, PA 10/1/16",
+    "description": "Saturday, October 1, 2016: Full replay of the Donald J. Trump for President rally in Manheim, PA at  Spooky Nook Sports. Live coverage begins at 7:00 PM ET.\n\nLIVE Stream: Donald Trump Rally in Manheim, PA 10/1/16",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uY89pjXa-EU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uY89pjXa-EU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uY89pjXa-EU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uY89pjXa-EU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/uY89pjXa-EU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Right Side Broadcasting",
+    "tags": [
+     "Donald Trump",
+     "Manheim",
+     "Pennsylvania",
+     "Live Stream",
+     "Rally",
+     "Speech"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "TRUMP UNLEASHED: Donald Trump Full Speech in Manheim, PA 10/1/16",
+     "description": "Saturday, October 1, 2016: Full replay of the Donald J. Trump for President rally in Manheim, PA at  Spooky Nook Sports. Live coverage begins at 7:00 PM ET.\n\nLIVE Stream: Donald Trump Rally in Manheim, PA 10/1/16"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/s3sYzR1CgzRKo42CCF_WH4xD3r4\"",
+   "id": "3CGhng_VviU",
+   "snippet": {
+    "publishedAt": "2016-09-30T13:00:00.000Z",
+    "channelId": "UC6E2mP01ZLH_kbAyeazCNdg",
+    "title": "Inked by a Giant Slug!",
+    "description": "Please SUBSCRIBE NOW! http://bit.ly/BWchannel\nWatch More - http://bit.ly/BTTgiantslug\n\nOn this episode of Beyond the Tide, Coyote gets inked by a giant Brown Sea Slug!\n\nIn addition to the inking from the Brown Sea Hare, this episode also has a fun little twist behind it because we are currently in a friendly competition with our friends over at the BBC Earth Unplugged channel. We’ve all been sharing stories about our bizarre animal encounters for a while now and have decided it’s finally time to bring our audiences in to help judge who truly is champion of the MOST BIZARRE!  \n\nSo please do go watch their video after watching ours and let us know in the comment section who won this first challenge! - http://bit.ly/BBCbizarre\n\nGet ready to to witness one epic battle of the bizarre! \n\n\n\n*Special thanks to Aron Sanchez for making this adventure possible. To learn more about Aron's amazing field work please visit his YouTube channel http://bit.ly/waterbod or his Instagram @waterbod\n\n\nOur new series Beyond the Tide explores the mysterious world of the ocean and brings you closer than ever to its most fascinating creatures. Whether it’s tide pools, lagoons or the deepest depths of the sea Coyote Peterson and the Brave Wilderness crew will take you there! \n\nThe Brave Wilderness Channel is your one stop connection to a wild world of adventure and amazing up close animal encounters! \n\nFollow along with adventurer and animal expert Coyote Peterson and his crew as they lead you on four exciting expedition series including the Emmy Award Winning Breaking Trail, Dragon Tails, Coyote’s Backyard and Beyond the Tide - featuring everything from Grizzly Bears and Crocodiles to Rattlesnakes and Tarantulas…each episode offers an opportunity to learn something new.\n      \nSo SUBSCRIBE NOW and join the adventure that brings you closer to the most beloved, bizarre and misunderstood creatures known to man! \n\nGET READY...things are about to get WILD!   \nNew Episodes Every Tuesday and Friday at 9AM EST\n\nSubscribe Now! https://www.youtube.com/BraveWilderness\n\nFind more info at: https://www.CoyotePeterson.com\n\nCoyote Peterson on Twitter: https://twitter.com/CoyotePeterson\n\nCoyote Peterson on Facebook: https://www.facebook.com/CoyotePeterson\n\nCoyote Peterson on Instagram: https://www.instagram.com/CoyotePeterson\n\nCoyote Peterson G+: https://plus.google.com/100310803754690323805/about",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3CGhng_VviU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3CGhng_VviU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3CGhng_VviU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3CGhng_VviU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3CGhng_VviU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Brave Wilderness",
+    "tags": [
+     "slug",
+     "giant slug",
+     "attacks",
+     "lethal",
+     "eel",
+     "ocean",
+     "venomous",
+     "poison",
+     "toxic",
+     "sea creatures",
+     "sea monsters",
+     "adventure",
+     "adventurous",
+     "animals",
+     "brave",
+     "brave wilderness",
+     "breaking",
+     "breaking trail",
+     "coyote",
+     "coyote peterson",
+     "peterson",
+     "trail",
+     "wild",
+     "wildlife",
+     "scary",
+     "beyond the tide",
+     "tide pool",
+     "black sea hare",
+     "its huge",
+     "monster",
+     "monster slug",
+     "biggest slug",
+     "worlds largest",
+     "huge slug",
+     "black slug",
+     "slugs",
+     "sea hare",
+     "inked",
+     "ink",
+     "inked by a",
+     "inked by a slug",
+     "slug ink",
+     "octopus",
+     "gross",
+     "slimed",
+     "slimy",
+     "slug slime",
+     "slimed by",
+     "bbc"
+    ],
+    "categoryId": "15",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Inked by a Giant Slug!",
+     "description": "Please SUBSCRIBE NOW! http://bit.ly/BWchannel\nWatch More - http://bit.ly/BTTgiantslug\n\nOn this episode of Beyond the Tide, Coyote gets inked by a giant Brown Sea Slug!\n\nIn addition to the inking from the Brown Sea Hare, this episode also has a fun little twist behind it because we are currently in a friendly competition with our friends over at the BBC Earth Unplugged channel. We’ve all been sharing stories about our bizarre animal encounters for a while now and have decided it’s finally time to bring our audiences in to help judge who truly is champion of the MOST BIZARRE!  \n\nSo please do go watch their video after watching ours and let us know in the comment section who won this first challenge! - http://bit.ly/BBCbizarre\n\nGet ready to to witness one epic battle of the bizarre! \n\n\n\n*Special thanks to Aron Sanchez for making this adventure possible. To learn more about Aron's amazing field work please visit his YouTube channel http://bit.ly/waterbod or his Instagram @waterbod\n\n\nOur new series Beyond the Tide explores the mysterious world of the ocean and brings you closer than ever to its most fascinating creatures. Whether it’s tide pools, lagoons or the deepest depths of the sea Coyote Peterson and the Brave Wilderness crew will take you there! \n\nThe Brave Wilderness Channel is your one stop connection to a wild world of adventure and amazing up close animal encounters! \n\nFollow along with adventurer and animal expert Coyote Peterson and his crew as they lead you on four exciting expedition series including the Emmy Award Winning Breaking Trail, Dragon Tails, Coyote’s Backyard and Beyond the Tide - featuring everything from Grizzly Bears and Crocodiles to Rattlesnakes and Tarantulas…each episode offers an opportunity to learn something new.\n      \nSo SUBSCRIBE NOW and join the adventure that brings you closer to the most beloved, bizarre and misunderstood creatures known to man! \n\nGET READY...things are about to get WILD!   \nNew Episodes Every Tuesday and Friday at 9AM EST\n\nSubscribe Now! https://www.youtube.com/BraveWilderness\n\nFind more info at: https://www.CoyotePeterson.com\n\nCoyote Peterson on Twitter: https://twitter.com/CoyotePeterson\n\nCoyote Peterson on Facebook: https://www.facebook.com/CoyotePeterson\n\nCoyote Peterson on Instagram: https://www.instagram.com/CoyotePeterson\n\nCoyote Peterson G+: https://plus.google.com/100310803754690323805/about"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/QVScSgQgOrm1qPglx1aFaQrquP0\"",
+   "id": "EvyjAyTxKlw",
+   "snippet": {
+    "publishedAt": "2016-09-30T18:35:59.000Z",
+    "channelId": "UCgurmV2nVq_1DUb2pvGOKmg",
+    "title": "Britney Spears on Helium - The Jonathan Ross Show",
+    "description": "After losing a round of ‘Forfeit Tennis’ - Britney Spears must take a breath full of helium and sing to Jonathan. \n\nSubscribe to The Jonathan Ross Show YouTube channel for weekly videos and the best bits from the show - http://www.youtube.com/TheJonathanRossShow\n\nFollow the show on Twitter: https://twitter.com/JRossShow\nLike the show on Facebook: https://www.facebook.com/TheJonathanRossShow",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EvyjAyTxKlw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EvyjAyTxKlw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EvyjAyTxKlw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EvyjAyTxKlw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EvyjAyTxKlw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "The Jonathan Ross Show",
+    "tags": [
+     "The Jonathan Ross Show",
+     "ITV",
+     "Jonathan Ross",
+     "Wossy",
+     "Rossy",
+     "chat show",
+     "jonathan ross chat show",
+     "live",
+     "hollywood",
+     "celebrity",
+     "music",
+     "british",
+     "UK",
+     "The girl on the train",
+     "war on everyone",
+     "britney spears",
+     "luke evans",
+     "emily blunt",
+     "Alexander Skarsgård",
+     "true blood",
+     "tarzan",
+     "glory",
+     "adele",
+     "helium"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Britney Spears on Helium - The Jonathan Ross Show",
+     "description": "After losing a round of ‘Forfeit Tennis’ - Britney Spears must take a breath full of helium and sing to Jonathan. \n\nSubscribe to The Jonathan Ross Show YouTube channel for weekly videos and the best bits from the show - http://www.youtube.com/TheJonathanRossShow\n\nFollow the show on Twitter: https://twitter.com/JRossShow\nLike the show on Facebook: https://www.facebook.com/TheJonathanRossShow"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/jL2ZCp-Mj0-rv0i6Gjt3UK7aqDQ\"",
+   "id": "kikhfHsk9_M",
+   "snippet": {
+    "publishedAt": "2016-10-02T06:06:00.000Z",
+    "channelId": "UCv_s-FKXBwsq1zy4GCR3Ycw",
+    "title": "Will Brooks vs. Alex Oliveira | UFC Fight Night Highlights",
+    "description": "Check out Will Brooks' decision win over Alex Oliveira at UFC Fight Night in Portland, Oregon.\n\nWatch the latest UFC ON FOX content: http://foxs.pt/ZEONsH \n \nConnect with UFC ON FOX Online:\n \nVisit the UFC ON FOX WEBSITE: http://www.foxsports.com/ufc\nLike UFC ON FOX on FACEBOOK: https://www.facebook.com/UFCONFOX\nFollow UFC ON FOX on TWITTER: https://twitter.com/UFCONFOX\n \nAbout UFC ON FOX:\nThe official FOX Sports home of UFC coverage. Every fight night we see every punch, kick and submission attempt and share it with you, THE FAN. Our talent includes past and current UFC Fighters, Kenny Florian, Brian Stann, and Daniel Cormier. \n\nUFC ON FOX content includes clips from UFC Tonight, UFC Ultimate Insider, The Ultimate Fighter and the best from the top athletes in MMA from Ronda Rousey, Anderson Silva, Cain Velasquez, Rashad Evans, Anthony Pettis, UFC President Dana White and more.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kikhfHsk9_M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kikhfHsk9_M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kikhfHsk9_M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kikhfHsk9_M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kikhfHsk9_M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "UFC ON FOX",
+    "tags": [
+     "main event",
+     "john lineker",
+     "hands of stone",
+     "john dodson",
+     "the magician",
+     "ufc",
+     "ufc fight night",
+     "fight night",
+     "highlights",
+     "ufc highlights",
+     "oregon ufc",
+     "oregon mma",
+     "mma oregon",
+     "will brooks",
+     "alex oliveira",
+     "dana white",
+     "karyn bryant",
+     "kenny florian",
+     "october ufc",
+     "takedown",
+     "submission",
+     "weight",
+     "ko",
+     "tko",
+     "oliveira brooks highlight",
+     "brooks oliveira highlight"
+    ],
+    "categoryId": "17",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Will Brooks vs. Alex Oliveira | UFC Fight Night Highlights",
+     "description": "Check out Will Brooks' decision win over Alex Oliveira at UFC Fight Night in Portland, Oregon.\n\nWatch the latest UFC ON FOX content: http://foxs.pt/ZEONsH \n \nConnect with UFC ON FOX Online:\n \nVisit the UFC ON FOX WEBSITE: http://www.foxsports.com/ufc\nLike UFC ON FOX on FACEBOOK: https://www.facebook.com/UFCONFOX\nFollow UFC ON FOX on TWITTER: https://twitter.com/UFCONFOX\n \nAbout UFC ON FOX:\nThe official FOX Sports home of UFC coverage. Every fight night we see every punch, kick and submission attempt and share it with you, THE FAN. Our talent includes past and current UFC Fighters, Kenny Florian, Brian Stann, and Daniel Cormier. \n\nUFC ON FOX content includes clips from UFC Tonight, UFC Ultimate Insider, The Ultimate Fighter and the best from the top athletes in MMA from Ronda Rousey, Anderson Silva, Cain Velasquez, Rashad Evans, Anthony Pettis, UFC President Dana White and more."
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/eXdts59NyTGkI5ab6r4iBo9EGkA\"",
+   "id": "u8xhB0Mc77w",
+   "snippet": {
+    "publishedAt": "2016-10-02T00:42:55.000Z",
+    "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
+    "title": "Kevin Durant's First Bucket with the Warriors",
+    "description": "Check out Kevin Durant throw down his first bucket with the Golden State Warriors\n\n\nAbout the NBA: \nThe NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries and territories in 47 languages, as well as NBA rosters at the start of the 2015-16 season featuring  100 international players from 37 countries and territories. For the 2015-16 season, each of the league's 30 teams will play 82 regular-season games, followed by a postseason for those that qualify. \n\nThe NBA consists of the following teams: Atlanta Hawks; Boston Celtics; Brooklyn Nets; Charlotte Hornets; Chicago Bulls; Cleveland Cavaliers; Dallas Mavericks; Denver Nuggets; Detroit Pistons; Golden State Warriors; Houston Rockets; Indiana Pacers; Los Angeles Clippers; Los Angeles Lakers; Memphis Grizzlies; Miami Heat; Milwaukee Bucks; Minnesota Timberwolves; New Orleans Pelicans; New York Knicks; Oklahoma City Thunder; Orlando Magic; Philadelphia 76ers; Phoenix Suns; Portland Trail Blazers; Sacramento Kings; San Antonio Spurs; Toronto Raptors; Utah Jazz; Washington Wizards. \n\nThe NBA offers real time access to live regular season NBA games with a subscription to NBA LEAGUE PASS, available globally for TV, broadband, and mobile.  Real-time Stats, Scores, Highlights and more are available to fans on web and mobile with the NBA App. \n\n\nFor more information, as well as all the latest NBA news and highlights, log onto the league's official website at http://www.NBA.com \n\nSubscribe on YouTube:                        http://www.youtube.com/nba\nSubscribe to NBA LEAGUE PASS       http://www.nba.com/leaguepass\nDownload NBA Game Time                 http://www.nba.com/mobile\nLike us on Facebook:                           http://www.facebook.com/nba\nFollow us on Twitter:                            http://www.twitter.com/nba\nFollow us on Instagram:                       http://www.instagram.com/nba\nFollow us on Tumblr                             http://nba.tumblr.com\nShop for NBA Gear:                              http://store.nba.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/u8xhB0Mc77w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/u8xhB0Mc77w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/u8xhB0Mc77w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/u8xhB0Mc77w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "NBA",
+    "tags": [
+     "nba",
+     "highlights",
+     "basketball",
+     "amazing",
+     "big",
+     "sports",
+     "golden state warriors",
+     "kevin Durant",
+     "toronto raptors",
+     "preseason",
+     "first bucket",
+     "first basket"
+    ],
+    "categoryId": "17",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Kevin Durant's First Bucket with the Warriors",
+     "description": "Check out Kevin Durant throw down his first bucket with the Golden State Warriors\n\n\nAbout the NBA: \nThe NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries and territories in 47 languages, as well as NBA rosters at the start of the 2015-16 season featuring  100 international players from 37 countries and territories. For the 2015-16 season, each of the league's 30 teams will play 82 regular-season games, followed by a postseason for those that qualify. \n\nThe NBA consists of the following teams: Atlanta Hawks; Boston Celtics; Brooklyn Nets; Charlotte Hornets; Chicago Bulls; Cleveland Cavaliers; Dallas Mavericks; Denver Nuggets; Detroit Pistons; Golden State Warriors; Houston Rockets; Indiana Pacers; Los Angeles Clippers; Los Angeles Lakers; Memphis Grizzlies; Miami Heat; Milwaukee Bucks; Minnesota Timberwolves; New Orleans Pelicans; New York Knicks; Oklahoma City Thunder; Orlando Magic; Philadelphia 76ers; Phoenix Suns; Portland Trail Blazers; Sacramento Kings; San Antonio Spurs; Toronto Raptors; Utah Jazz; Washington Wizards. \n\nThe NBA offers real time access to live regular season NBA games with a subscription to NBA LEAGUE PASS, available globally for TV, broadband, and mobile.  Real-time Stats, Scores, Highlights and more are available to fans on web and mobile with the NBA App. \n\n\nFor more information, as well as all the latest NBA news and highlights, log onto the league's official website at http://www.NBA.com \n\nSubscribe on YouTube:                        http://www.youtube.com/nba\nSubscribe to NBA LEAGUE PASS       http://www.nba.com/leaguepass\nDownload NBA Game Time                 http://www.nba.com/mobile\nLike us on Facebook:                           http://www.facebook.com/nba\nFollow us on Twitter:                            http://www.twitter.com/nba\nFollow us on Instagram:                       http://www.instagram.com/nba\nFollow us on Tumblr                             http://nba.tumblr.com\nShop for NBA Gear:                              http://store.nba.com"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/60SA64IrNjsT656sYgTJWFTzcqI\"",
+   "id": "1XQm3AzMfMY",
+   "snippet": {
+    "publishedAt": "2016-10-02T15:34:05.000Z",
+    "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+    "title": "New York Times reports on leaked 1995 Trump tax returns",
+    "description": "Trump campaign adviser Gen. Michael Flynn reacts on 'Sunday Morning Futures'",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1XQm3AzMfMY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1XQm3AzMfMY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1XQm3AzMfMY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1XQm3AzMfMY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1XQm3AzMfMY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Fox News",
+    "tags": [
+     "Maria Bartiromo",
+     "Sunday Morning Futures",
+     "Elections",
+     "Presidential",
+     "Republicans",
+     "Apple News",
+     "On Air",
+     "Personality",
+     "Politics",
+     "Primary Politics",
+     "Special",
+     "Fox News",
+     "News"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "New York Times reports on leaked 1995 Trump tax returns",
+     "description": "Trump campaign adviser Gen. Michael Flynn reacts on 'Sunday Morning Futures'"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/sTCTnA5jfweoCGWuxflpGKi8rBY\"",
+   "id": "vgpcYrurBNA",
+   "snippet": {
+    "publishedAt": "2016-10-02T15:21:18.000Z",
+    "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+    "title": "Donald Trump Tax Returns Leaked From 1995",
+    "description": "The records show a $916 million dollar loss, potentially allowing him to avoid paying income taxes for up to 18 years.\nSUBSCRIBE to ABC NEWS: https://www.youtube.com/ABCNews/\nWatch More on http://abcnews.go.com/\nLIKE ABC News on FACEBOOK\nhttps://www.facebook.com/abcnews\nFOLLOW ABC News on TWITTER:\nhttps://twitter.com/abc\nGOOD MORNING AMERICA'S HOMEPAGE:\nhttps://gma.yahoo.com/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vgpcYrurBNA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vgpcYrurBNA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vgpcYrurBNA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vgpcYrurBNA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vgpcYrurBNA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ABC News",
+    "tags": [
+     "donald trump",
+     "trump",
+     "tax returns",
+     "1995",
+     "1995 tax returns",
+     "new york times",
+     "$916 million dollar loss",
+     "income taxes",
+     "abc",
+     "abc news",
+     "gma"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Donald Trump Tax Returns Leaked From 1995",
+     "description": "The records show a $916 million dollar loss, potentially allowing him to avoid paying income taxes for up to 18 years.\nSUBSCRIBE to ABC NEWS: https://www.youtube.com/ABCNews/\nWatch More on http://abcnews.go.com/\nLIKE ABC News on FACEBOOK\nhttps://www.facebook.com/abcnews\nFOLLOW ABC News on TWITTER:\nhttps://twitter.com/abc\nGOOD MORNING AMERICA'S HOMEPAGE:\nhttps://gma.yahoo.com/"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/AXXRl6mItCQwlmMGe3Bb0B1Y2Lo\"",
+   "id": "Tx-9jgT-PVQ",
+   "snippet": {
+    "publishedAt": "2016-10-01T07:35:00.000Z",
+    "channelId": "UCMtFAi84ehTSYSE9XoHefig",
+    "title": "Samantha Bee On The Election: \"I Want It To Be Over So Badly\"",
+    "description": "The 'Full Frontal' star admits she's eager for the presidential campaign to be over, despite the \"buffet of wonderful things\" it provides to make jokes about.\n\nSubscribe To \"The Late Show\" Channel HERE: http://bit.ly/ColbertYouTube\nFor more content from \"The Late Show with Stephen Colbert\", click HERE: http://bit.ly/1AKISnR\nWatch full episodes of \"The Late Show\" HERE: http://bit.ly/1Puei40\nLike \"The Late Show\" on Facebook HERE: http://on.fb.me/1df139Y\nFollow \"The Late Show\" on Twitter HERE: http://bit.ly/1dMzZzG\nFollow \"The Late Show\" on Google+ HERE: http://bit.ly/1JlGgzw\nFollow \"The Late Show\" on Instagram HERE: http://bit.ly/29wfREj\nFollow \"The Late Show\" on Tumblr HERE: http://bit.ly/29DVvtR\n\nWatch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.\n\nGet the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge\n\nGet new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\n\n---\nStephen Colbert took over as host of The Late Show on Tuesday, Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and best known for his charity work teaching English as a second language on Tunisian date farms. Prior to joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed “The Colbert Report,” which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one third of the time. Good luck, Bill!\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Tx-9jgT-PVQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Tx-9jgT-PVQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Tx-9jgT-PVQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Tx-9jgT-PVQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "The Late Show with Stephen Colbert",
+    "tags": [
+     "The Late Show",
+     "Stephen Colbert",
+     "Colbert",
+     "Late Show",
+     "celebrities",
+     "late night",
+     "talk show",
+     "skits",
+     "bit",
+     "monologue",
+     "The Late Late Show",
+     "Late Late Show",
+     "letterman",
+     "david letterman",
+     "comedian",
+     "impressions",
+     "CBS",
+     "joke",
+     "jokes",
+     "funny",
+     "funny video",
+     "funny videos",
+     "humor",
+     "celebrity",
+     "celeb",
+     "hollywood",
+     "famous",
+     "James Corden",
+     "Corden",
+     "Comedy"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Samantha Bee On The Election: \"I Want It To Be Over So Badly\"",
+     "description": "The 'Full Frontal' star admits she's eager for the presidential campaign to be over, despite the \"buffet of wonderful things\" it provides to make jokes about.\n\nSubscribe To \"The Late Show\" Channel HERE: http://bit.ly/ColbertYouTube\nFor more content from \"The Late Show with Stephen Colbert\", click HERE: http://bit.ly/1AKISnR\nWatch full episodes of \"The Late Show\" HERE: http://bit.ly/1Puei40\nLike \"The Late Show\" on Facebook HERE: http://on.fb.me/1df139Y\nFollow \"The Late Show\" on Twitter HERE: http://bit.ly/1dMzZzG\nFollow \"The Late Show\" on Google+ HERE: http://bit.ly/1JlGgzw\nFollow \"The Late Show\" on Instagram HERE: http://bit.ly/29wfREj\nFollow \"The Late Show\" on Tumblr HERE: http://bit.ly/29DVvtR\n\nWatch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.\n\nGet the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge\n\nGet new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\n\n---\nStephen Colbert took over as host of The Late Show on Tuesday, Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and best known for his charity work teaching English as a second language on Tunisian date farms. Prior to joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed “The Colbert Report,” which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one third of the time. Good luck, Bill!\""
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/JVBgeEHBtN1oTm1vUtyNd19iLuw\"",
+   "id": "7DE51JYcl_4",
+   "snippet": {
+    "publishedAt": "2016-09-30T21:00:01.000Z",
+    "channelId": "UCR-QYzXrZF8yFarK8wZbHog",
+    "title": "Life update",
+    "description": "This is the most difficult decision I have ever had to make in my entire life. I ask that you all be respectful during this painful time. Thank you",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7DE51JYcl_4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7DE51JYcl_4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7DE51JYcl_4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7DE51JYcl_4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7DE51JYcl_4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "PsychoSoprano",
+    "tags": [
+     "life",
+     "update",
+     "colleen ballinger"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Life update",
+     "description": "This is the most difficult decision I have ever had to make in my entire life. I ask that you all be respectful during this painful time. Thank you"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/0JTh94xig8NC4FFHjjMq7PfPN_4\"",
+   "id": "DTAy2h-_sEg",
+   "snippet": {
+    "publishedAt": "2016-10-01T18:08:46.000Z",
+    "channelId": "UCI4I6ldZ0jWe7vXpUVeVcpg",
+    "title": "8 Awesome Grocery Bag Hacks To Try Right Now",
+    "description": "Paper or plastic? How about both! We've put together an awesome list of Grocery Bag Life Hacks for you to try at home. From making a magic wallet to locking down your bags with a bungee cord, check out our favorite grocery bag hacks!\nSUBSCRIBE HERE →  http://bit.ly/HouseholdSubscriber\n\nOur Playlists:\nQuick & Simple Life Hacks: https://goo.gl/3he8lU\nCool Science Tricks: https://goo.gl/qjZKcG\nDIY Pranks: https://goo.gl/624wun\n\nOur Facebook Page: http://facebook.com/HackThePlanet\nOur Twitter: http://twitter.com/householdhacker\n\nBusiness Inquiries or Media Requests:\nhttp://bit.ly/EmailHH",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DTAy2h-_sEg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DTAy2h-_sEg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DTAy2h-_sEg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DTAy2h-_sEg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DTAy2h-_sEg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "HouseholdHacker",
+    "tags": [
+     "Householdhacker",
+     "household hacker",
+     "household hackers",
+     "diy",
+     "how to",
+     "howto",
+     "life hack",
+     "life hacks",
+     "life hacking",
+     "science experiments",
+     "grocery bags",
+     "plastic bags",
+     "shopping bags",
+     "baby wipes",
+     "cereal box",
+     "soda box",
+     "car sick bag",
+     "puke bag",
+     "laundry basket",
+     "groceries",
+     "shopping",
+     "keep ice cream fresh",
+     "barf bag",
+     "paper bag",
+     "magic wallet",
+     "fake wasp nest",
+     "wasp repellent",
+     "brown bag",
+     "craft hacking",
+     "make a sick bag",
+     "how to prevent wasps",
+     "get rid of wasps",
+     "plastic bag storage"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "8 Awesome Grocery Bag Hacks To Try Right Now",
+     "description": "Paper or plastic? How about both! We've put together an awesome list of Grocery Bag Life Hacks for you to try at home. From making a magic wallet to locking down your bags with a bungee cord, check out our favorite grocery bag hacks!\nSUBSCRIBE HERE →  http://bit.ly/HouseholdSubscriber\n\nOur Playlists:\nQuick & Simple Life Hacks: https://goo.gl/3he8lU\nCool Science Tricks: https://goo.gl/qjZKcG\nDIY Pranks: https://goo.gl/624wun\n\nOur Facebook Page: http://facebook.com/HackThePlanet\nOur Twitter: http://twitter.com/householdhacker\n\nBusiness Inquiries or Media Requests:\nhttp://bit.ly/EmailHH"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/kvHmjvzA8DuEXlzbmzQBn7wmYLE\"",
+   "id": "YENeVo08jaI",
+   "snippet": {
+    "publishedAt": "2016-09-30T20:59:46.000Z",
+    "channelId": "UCeNfkWyfEXpZ8d1DmvwDt_w",
+    "title": "Heartbroken",
+    "description": "Love you guys.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YENeVo08jaI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YENeVo08jaI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YENeVo08jaI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YENeVo08jaI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "JoshuaDTV",
+    "tags": [
+     "joshuadtv",
+     "joshua david evans",
+     "joshua david evans singing",
+     "singing",
+     "joshuadtv singing",
+     "vlog",
+     "be nice to people"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Heartbroken",
+     "description": "Love you guys."
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/JFddLMbzqz-ggqrlr0TO5Nv3RK8\"",
+   "id": "9MUnqIoehbc",
+   "snippet": {
+    "publishedAt": "2016-09-30T16:25:54.000Z",
+    "channelId": "UC0rDDvHM7u_7aWgAojSXl1Q",
+    "title": "Everyday Life Hacks",
+    "description": "Life hacks for you to try at home or when shopping. Use a key instead of a coin, organise your wallet and power sockets, fill a bucket from a basin through a bottle. Phone Case Life Hack: https://www.youtube.com/watch?v=yxjRcyfRjkg\n\nOther Videos:\nChoc Coke Bottle -https://www.youtube.com/watch?v=i8cm3l6Mx7w\nMagnetic Slime - https://www.youtube.com/watch?v=bZ1WmeKir78 \nBack To School Hacks - https://www.youtube.com/watch?v=Xo9_6Cc7Nio\n\nContribute Subtitles Here: https://www.youtube.com/timedtext_cs_panel?c=UC0rDDvHM7u_7aWgAojSXl1Q&tab=2\n\nLatest Videos - https://www.youtube.com/watch?v=UfUg_vLV-bI&list=PLQ_T2NppE0PL_MgE6MlzDhfokjsILzj7b\n\nFood and Cooking Hacks - https://www.youtube.com/watch?v=mbHeddAnrZs&list=PLQ_T2NppE0PJvJeFaoIBp4P0ns8NudGQB\n\nSimple Cooking Ideas  - https://www.youtube.com/watch?v=tiydbycHA44&list=PLQ_T2NppE0PKNyiZitj427Kuj1lhR6YDy\n\nAmazing Life Hacks - https://www.youtube.com/watch?v=uz6rjbw0ZA0&list=PLQ_T2NppE0PKRAqkjpgtVRff46vr1iHaC\n\nHow To Make Fun Things - https://www.youtube.com/watch?v=0ki9Kta8g14&list=PLQ_T2NppE0PI1soHO1bZmTJOGTynkRYHD\n\nSubscribe here: https://www.youtube.com/subscription_center?add_user=davehax\n\nMusic: Look Busy Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9MUnqIoehbc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9MUnqIoehbc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9MUnqIoehbc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9MUnqIoehbc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9MUnqIoehbc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "DaveHax",
+    "tags": [
+     "Life Hacks",
+     "Life hacks for kids",
+     "Life Hacks at home",
+     "Key",
+     "Bottle",
+     "home",
+     "tidy",
+     "wallet",
+     "money",
+     "shopping",
+     "power",
+     "shopping trolley",
+     "shopping cart",
+     "DIY",
+     "how to make",
+     "craft",
+     "labels",
+     "organize",
+     "tidy home",
+     "bucket",
+     "mop",
+     "water",
+     "coin"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en-GB",
+    "localized": {
+     "title": "Everyday Life Hacks",
+     "description": "Life hacks for you to try at home or when shopping. Use a key instead of a coin, organise your wallet and power sockets, fill a bucket from a basin through a bottle. Phone Case Life Hack: https://www.youtube.com/watch?v=yxjRcyfRjkg\n\nOther Videos:\nChoc Coke Bottle -https://www.youtube.com/watch?v=i8cm3l6Mx7w\nMagnetic Slime - https://www.youtube.com/watch?v=bZ1WmeKir78 \nBack To School Hacks - https://www.youtube.com/watch?v=Xo9_6Cc7Nio\n\nContribute Subtitles Here: https://www.youtube.com/timedtext_cs_panel?c=UC0rDDvHM7u_7aWgAojSXl1Q&tab=2\n\nLatest Videos - https://www.youtube.com/watch?v=UfUg_vLV-bI&list=PLQ_T2NppE0PL_MgE6MlzDhfokjsILzj7b\n\nFood and Cooking Hacks - https://www.youtube.com/watch?v=mbHeddAnrZs&list=PLQ_T2NppE0PJvJeFaoIBp4P0ns8NudGQB\n\nSimple Cooking Ideas  - https://www.youtube.com/watch?v=tiydbycHA44&list=PLQ_T2NppE0PKNyiZitj427Kuj1lhR6YDy\n\nAmazing Life Hacks - https://www.youtube.com/watch?v=uz6rjbw0ZA0&list=PLQ_T2NppE0PKRAqkjpgtVRff46vr1iHaC\n\nHow To Make Fun Things - https://www.youtube.com/watch?v=0ki9Kta8g14&list=PLQ_T2NppE0PI1soHO1bZmTJOGTynkRYHD\n\nSubscribe here: https://www.youtube.com/subscription_center?add_user=davehax\n\nMusic: Look Busy Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/"
+    },
+    "defaultAudioLanguage": "en-GB"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/EKQCu7a6FK7y9oHFvxCwdj6Cfws\"",
+   "id": "XtWQFEitAjQ",
+   "snippet": {
+    "publishedAt": "2016-10-02T04:46:22.000Z",
+    "channelId": "UCoLrcjPV5PbUrUyXq5mjc_A",
+    "title": "10/1/16: Blue Jays pull into WC tie thanks to sac fly",
+    "description": "Daily Recap: Ezequiel Carrera drove in the lead run with a sacrifice fly in the 9th as the Blue Jays won to tie for the top Wild Card spot\n\nCheck out http://m.mlb.com/video for our full archive of videos, and subscribe on YouTube for the best, exclusive MLB content: http://youtube.com/MLB   \n \nAbout MLB.com:\nCommissioner Allan H. (Bud) Selig announced on January 19, 2000, that the 30 Major League club owners voted unanimously to centralize all of Baseball's internet operations into an independent technology company. Major League Baseball Advanced Media (MLBAM) was formed and charged with developing, building and managing the most comprehensive baseball experience available on the internet. In August 2002, MLB.com streamed the first-ever live, full length MLB game when the Texas Rangers and New York Yankees faced off at Yankee Stadium. Since that time, millions of baseball fans around the world have subscribed to MLB.TV, the live video streaming product that airs every game in HD to nearly 400 different devices. MLB.com also provides an array of mobile apps for fans to choose from, including At Bat, the highest-grossing iOS sports app of all-time. MLB.com features a stable of club beat reporters and award-winning national columnists, the largest contingent of baseball reporters under one roof, who deliver over 100 original articles every day. MLB.com also offers extensive historical information and footage, online ticket sales, official baseball merchandise, authenticated memorabilia and collectibles and fantasy games.\n \nMajor League Baseball consists of 30 teams split between the American and National Leagues. The American League, originally founded in 1901, consists of the following teams: Baltimore Orioles; Boston Red Sox; Chicago White Sox; Cleveland Indians; Detroit Tigers; Houston Astros; Kansas City Royals; Los Angeles Angels of Anaheim; Minnesota Twins; New York Yankees; Oakland Athletics; Seattle Mariners; Tampa Bay Rays; Texas Rangers; and Toronto Blue Jays. The National League, originally founded in 1876, consists of the following teams: Arizona Diamondbacks; Atlanta Braves; Chicago Cubs; Cincinnati Reds; Colorado Rockies; Los Angeles Dodgers; Miami Marlins; Milwaukee Brewers; New York Mets; Philadelphia Phillies; Pittsburgh Pirates; San Diego Padres; San Francisco Giants; St. Louis Cardinals; and Washington Nationals.\n \nVisit MLB.com: http://mlb.mlb.com\nSubscribe to MLB.TV: mlb.tv\nDownload MLB.com At Bat: http://mlb.mlb.com/mobile/atbat\nDownload MLB.com Ballpark: http://mlb.mlb.com/mobile/ballpark\nGet tickets: http://mlb.mlb.com/tickets\nOfficial MLB Merchandise: http://mlb.mlb.com/shop\n \nJoin the conversation!\nTwitter: http://twitter.com/mlb\nFacebook: http://facebook.com/mlb\nInstagram: http://instagram.com/mlb\nGoogle+: https://plus.google.com/+MLB\nTumblr: http://drawntomlb.com/\nPinterest: http://pinterest.com/MLBAM",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XtWQFEitAjQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XtWQFEitAjQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XtWQFEitAjQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XtWQFEitAjQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XtWQFEitAjQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "MLB",
+    "tags": [
+     "sp:ti:home=BOS",
+     "sp:ti:away=TOR",
+     "sp:li=MLB",
+     "sp:st=baseball",
+     "sp:dt=2016-10-01T23:10:00Z",
+     "sp:vl=en-US",
+     "sp:ty=high"
+    ],
+    "categoryId": "17",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "10/1/16: Blue Jays pull into WC tie thanks to sac fly",
+     "description": "Daily Recap: Ezequiel Carrera drove in the lead run with a sacrifice fly in the 9th as the Blue Jays won to tie for the top Wild Card spot\n\nCheck out http://m.mlb.com/video for our full archive of videos, and subscribe on YouTube for the best, exclusive MLB content: http://youtube.com/MLB   \n \nAbout MLB.com:\nCommissioner Allan H. (Bud) Selig announced on January 19, 2000, that the 30 Major League club owners voted unanimously to centralize all of Baseball's internet operations into an independent technology company. Major League Baseball Advanced Media (MLBAM) was formed and charged with developing, building and managing the most comprehensive baseball experience available on the internet. In August 2002, MLB.com streamed the first-ever live, full length MLB game when the Texas Rangers and New York Yankees faced off at Yankee Stadium. Since that time, millions of baseball fans around the world have subscribed to MLB.TV, the live video streaming product that airs every game in HD to nearly 400 different devices. MLB.com also provides an array of mobile apps for fans to choose from, including At Bat, the highest-grossing iOS sports app of all-time. MLB.com features a stable of club beat reporters and award-winning national columnists, the largest contingent of baseball reporters under one roof, who deliver over 100 original articles every day. MLB.com also offers extensive historical information and footage, online ticket sales, official baseball merchandise, authenticated memorabilia and collectibles and fantasy games.\n \nMajor League Baseball consists of 30 teams split between the American and National Leagues. The American League, originally founded in 1901, consists of the following teams: Baltimore Orioles; Boston Red Sox; Chicago White Sox; Cleveland Indians; Detroit Tigers; Houston Astros; Kansas City Royals; Los Angeles Angels of Anaheim; Minnesota Twins; New York Yankees; Oakland Athletics; Seattle Mariners; Tampa Bay Rays; Texas Rangers; and Toronto Blue Jays. The National League, originally founded in 1876, consists of the following teams: Arizona Diamondbacks; Atlanta Braves; Chicago Cubs; Cincinnati Reds; Colorado Rockies; Los Angeles Dodgers; Miami Marlins; Milwaukee Brewers; New York Mets; Philadelphia Phillies; Pittsburgh Pirates; San Diego Padres; San Francisco Giants; St. Louis Cardinals; and Washington Nationals.\n \nVisit MLB.com: http://mlb.mlb.com\nSubscribe to MLB.TV: mlb.tv\nDownload MLB.com At Bat: http://mlb.mlb.com/mobile/atbat\nDownload MLB.com Ballpark: http://mlb.mlb.com/mobile/ballpark\nGet tickets: http://mlb.mlb.com/tickets\nOfficial MLB Merchandise: http://mlb.mlb.com/shop\n \nJoin the conversation!\nTwitter: http://twitter.com/mlb\nFacebook: http://facebook.com/mlb\nInstagram: http://instagram.com/mlb\nGoogle+: https://plus.google.com/+MLB\nTumblr: http://drawntomlb.com/\nPinterest: http://pinterest.com/MLBAM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/syT-OeZMRS267ljny3LDKdBVLzk\"",
+   "id": "wFUlz_BTby8",
+   "snippet": {
+    "publishedAt": "2016-09-29T19:43:47.000Z",
+    "channelId": "UCCioJYwQpiM2i4AdyZgiXbQ",
+    "title": "Un mec détruit un Apple Store avec une boule de pétanque PARTIE 1",
+    "description": "To use this video in a commercial player or in broadcasts, please email licensing@storyful.com\n\nCHOC un client mécontent détruit un à un les iPhones, iPad, Mac Book et iMac d'un Apple Store à l'aide d'une boule de pétanque et tout cela dans le plus grand calme avant de se faire stopper par la sécu.\n\nTo use this video in a commercial player or in broadcasts, please email licensing@storyful.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wFUlz_BTby8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wFUlz_BTby8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wFUlz_BTby8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wFUlz_BTby8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wFUlz_BTby8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "kekess _______",
+    "tags": [
+     "toison d'or",
+     "dijon",
+     "france",
+     "Apple Store",
+     "Iphone",
+     "Iphone 7",
+     "Imac",
+     "mac book",
+     "Ipad",
+     "casser",
+     "detruire",
+     "boule",
+     "petanque",
+     "centre commercial",
+     "client",
+     "content",
+     "OKLM",
+     "degradations",
+     "psychopathe",
+     "choc"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "fr",
+    "localized": {
+     "title": "Un mec détruit un Apple Store avec une boule de pétanque PARTIE 1",
+     "description": "To use this video in a commercial player or in broadcasts, please email licensing@storyful.com\n\nCHOC un client mécontent détruit un à un les iPhones, iPad, Mac Book et iMac d'un Apple Store à l'aide d'une boule de pétanque et tout cela dans le plus grand calme avant de se faire stopper par la sécu.\n\nTo use this video in a commercial player or in broadcasts, please email licensing@storyful.com"
+    },
+    "defaultAudioLanguage": "fr"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/iIXB1wnH3VXwxhVYinhZGXfkrYk\"",
+   "id": "cuT7AbQEuUo",
+   "snippet": {
+    "publishedAt": "2016-09-30T17:08:37.000Z",
+    "channelId": "UC4PziMH5MvvsmqM0VCZTy-g",
+    "title": "Justin Timberlake and Anna Kendrick Are Gutted About Bake Off - The Graham Norton Show",
+    "description": "Justin Timber-bake anyone?\n\nSubscribe for weekly updates: http://www.youtube.com/subscription_center?add_user=officialgrahamnorton",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cuT7AbQEuUo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cuT7AbQEuUo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cuT7AbQEuUo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cuT7AbQEuUo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cuT7AbQEuUo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "The Graham Norton Show",
+    "tags": [
+     "Graham Norton",
+     "Graham Norton Show Official",
+     "Entertainment",
+     "Chat Show",
+     "graham norton show watch online",
+     "graham norton full episode",
+     "justin timberlake",
+     "daniel radcliffe",
+     "anna kendrick",
+     "robbie williams",
+     "justin timberbake"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Justin Timberlake and Anna Kendrick Are Gutted About Bake Off - The Graham Norton Show",
+     "description": "Justin Timber-bake anyone?\n\nSubscribe for weekly updates: http://www.youtube.com/subscription_center?add_user=officialgrahamnorton"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/2_a8vzUSan-ic-jCVqIv-mcaIrQ\"",
+   "id": "ie3o0s_KnNg",
+   "snippet": {
+    "publishedAt": "2016-10-01T16:09:04.000Z",
+    "channelId": "UC21yq4sq8uxTcfgIxxyE9VQ",
+    "title": "Romantic Fall Date Night Makeup | Carli Bybel",
+    "description": "Thumbs up for more fall makeup looks :)\n\n*CARLIBYBELxMISSGUIDED RESTOCK: http://bit.ly/CBMG2\n*CARLI BYBEL PALETTE: http://bit.ly/CARLIBYBEL\n\n----------------------------------------\u00ad\u00ad\u00ad\u00ad\u00ad------------------------------------\u00ad-\nGood morning !!!\n\nSeen on me:\nDress: http://bit.ly/2dgNgFV #carlibybelxmissguided\nNecklace: 25% off code: carlixoxo http://bit.ly/2dlW9KI\n\nProducts used in order:\nTrish Mcevoy Rose Quarts http://rstyle.me/cz-n/\nCharlotte Tilbury Legendary Muse http://rstyle.me/cz-n/b2fidsvt2e\nProtect the lions palette http://rstyle.me/cz-n/b2fic6vt2e\nAnastasia shadow in hot chocolate http://bit.ly/2cy2YMx\nAnastasia shadow in\nChristina  WSP http://amzn.to/2cJNKkV\nTarte mascara http://bit.ly/1TrRkNT\nNars highligh and blush palette\nCharlotte Tilbury Bond girl http://rstyle.me/cz-n/b2ficivt2e\nLa girl natural lip liner\nOCC Hollywood liquid lipstick http://rstyle.me/cz-n/b2fid6vt2e\n\n----------------------------------------\u00ad\u00ad\u00ad\u00ad\u00ad------------------------------------\u00ad-\n\n*Send me LETTERS!!! \nPO Box 6639\nBridgewater NJ 08807\n\nFollow me on Instagram:\nhttp://www.instagram.com/CarliBel\nhttp://www.instagram.com/TheFashionBybel - My Fashion Page for OOTD\n\nFollow me on SNAPCHAT! CarliPenguin5\n\nCome check out my beauty page for quotes & love!\nhttp://www.facebook.com/beautybycarli\n\n\nDisclaimer: this video is sponsored by Nordstrom. I purchased all the products :) I only recommend products that I personally love!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ie3o0s_KnNg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ie3o0s_KnNg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ie3o0s_KnNg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ie3o0s_KnNg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ie3o0s_KnNg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Carli Bybel",
+    "tags": [
+     "carlibel55",
+     "carlibybel",
+     "carlibel",
+     "innerbeautybybel",
+     "innerbeauty",
+     "inner",
+     "beauty",
+     "bybel",
+     "fashion",
+     "Contour and highlight",
+     "full face makeup",
+     "fall makeup",
+     "romantic fall makeup",
+     "date night makeup",
+     "Kylie Jenner",
+     "Kim kardashian",
+     "Jaclyn hill",
+     "Power of makeup",
+     "rose gold makeup",
+     "metallic makeup"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Romantic Fall Date Night Makeup | Carli Bybel",
+     "description": "Thumbs up for more fall makeup looks :)\n\n*CARLIBYBELxMISSGUIDED RESTOCK: http://bit.ly/CBMG2\n*CARLI BYBEL PALETTE: http://bit.ly/CARLIBYBEL\n\n----------------------------------------\u00ad\u00ad\u00ad\u00ad\u00ad------------------------------------\u00ad-\nGood morning !!!\n\nSeen on me:\nDress: http://bit.ly/2dgNgFV #carlibybelxmissguided\nNecklace: 25% off code: carlixoxo http://bit.ly/2dlW9KI\n\nProducts used in order:\nTrish Mcevoy Rose Quarts http://rstyle.me/cz-n/\nCharlotte Tilbury Legendary Muse http://rstyle.me/cz-n/b2fidsvt2e\nProtect the lions palette http://rstyle.me/cz-n/b2fic6vt2e\nAnastasia shadow in hot chocolate http://bit.ly/2cy2YMx\nAnastasia shadow in\nChristina  WSP http://amzn.to/2cJNKkV\nTarte mascara http://bit.ly/1TrRkNT\nNars highligh and blush palette\nCharlotte Tilbury Bond girl http://rstyle.me/cz-n/b2ficivt2e\nLa girl natural lip liner\nOCC Hollywood liquid lipstick http://rstyle.me/cz-n/b2fid6vt2e\n\n----------------------------------------\u00ad\u00ad\u00ad\u00ad\u00ad------------------------------------\u00ad-\n\n*Send me LETTERS!!! \nPO Box 6639\nBridgewater NJ 08807\n\nFollow me on Instagram:\nhttp://www.instagram.com/CarliBel\nhttp://www.instagram.com/TheFashionBybel - My Fashion Page for OOTD\n\nFollow me on SNAPCHAT! CarliPenguin5\n\nCome check out my beauty page for quotes & love!\nhttp://www.facebook.com/beautybycarli\n\n\nDisclaimer: this video is sponsored by Nordstrom. I purchased all the products :) I only recommend products that I personally love!"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/rNRD2WlYmjnYC9JF9VON5whUDPE\"",
+   "id": "AmumNJBNvUk",
+   "snippet": {
+    "publishedAt": "2016-10-02T13:00:01.000Z",
+    "channelId": "UCqhnX4jA0A5paNd1v-zEysw",
+    "title": "GoPro Awards: Soaring with Orcas",
+    "description": "Captured and submitted by GoPro Awards recipient Andreas Heide, who was joined by a pod of Orcas while riding his Subwing off the coast of Norway.\n\nSubmit your best photos, raw clips and video edits here: https://goo.gl/bC88c7\n\nShot 100% on the HERO4® camera from \u202ahttp://GoPro.com.\n\nGet stoked and subscribe: http://goo.gl/HgVXpQ\n\nTo license clips from this video go to https://licensing.gopro.com \n\nMusic\nWATERSTRIDER \"Feather Tips\"\n\nFor more from GoPro, follow us:\nFacebook: https://www.facebook.com/gopro\nTwitter: https://twitter.com/gopro\nInstagram: https://instagram.com/gopro\nTumblr: http://gopro.tumblr.com/\nPinterest: http://www.pinterest.com/gopro   \nVine: https://goo.gl/m3nQz7",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AmumNJBNvUk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AmumNJBNvUk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AmumNJBNvUk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AmumNJBNvUk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AmumNJBNvUk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GoPro",
+    "tags": [
+     "GoPro",
+     "Hero2",
+     "Hero3",
+     "Hero3Plus",
+     "Hero4",
+     "Hero5",
+     "Hero Camera",
+     "HD Camera",
+     "stoked",
+     "rad",
+     "video",
+     "GoPro Hero 4",
+     "4K",
+     "HD",
+     "best",
+     "go pro",
+     "camera",
+     "cam",
+     "hero",
+     "epic",
+     "hero4",
+     "hero 2",
+     "hero 3",
+     "hero 4",
+     "hero4 session",
+     "Hero5 Session",
+     "hero 4 session",
+     "session",
+     "black",
+     "silver",
+     "action",
+     "beautiful",
+     "great",
+     "crazy",
+     "viral",
+     "high definition",
+     "high def",
+     "karma",
+     "drone",
+     "hero 5",
+     "hero 5 session",
+     "karma drone",
+     "gopro drone",
+     "subwing",
+     "norway",
+     "freedive",
+     "underwater",
+     "sea",
+     "gopro awards",
+     "ugc",
+     "whale",
+     "killer whale",
+     "orca"
+    ],
+    "categoryId": "17",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "GoPro Awards: Soaring with Orcas",
+     "description": "Captured and submitted by GoPro Awards recipient Andreas Heide, who was joined by a pod of Orcas while riding his Subwing off the coast of Norway.\n\nSubmit your best photos, raw clips and video edits here: https://goo.gl/bC88c7\n\nShot 100% on the HERO4® camera from \u202ahttp://GoPro.com.\n\nGet stoked and subscribe: http://goo.gl/HgVXpQ\n\nTo license clips from this video go to https://licensing.gopro.com \n\nMusic\nWATERSTRIDER \"Feather Tips\"\n\nFor more from GoPro, follow us:\nFacebook: https://www.facebook.com/gopro\nTwitter: https://twitter.com/gopro\nInstagram: https://instagram.com/gopro\nTumblr: http://gopro.tumblr.com/\nPinterest: http://www.pinterest.com/gopro   \nVine: https://goo.gl/m3nQz7"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/hUG44G-c6EdvVfT0JweqTVaPQGE\"",
+   "id": "jDdKtWnFXFo",
+   "snippet": {
+    "publishedAt": "2016-09-30T02:22:11.000Z",
+    "channelId": "UCi7GJNg51C3jgmYTUwqoUXA",
+    "title": "Conan Hits The Gym With Kevin Hart  - CONAN on TBS",
+    "description": "Kevin and Conan work all the major muscle groups: biceps, lats, and of course, the taint. \n\n\"Kevin Hart: What Now?\" is in theaters on October 14th. http://www.kevinhartwhatnow.com/\n\nMore CONAN @ http://teamcoco.com/video\n\nTeam Coco is the official YouTube channel of late night host Conan O'Brien, CONAN on TBS & TeamCoco.com. Subscribe now to be updated on the latest videos: http://bit.ly/W5wt5D\n\nFor Full Episodes of CONAN on TBS, visit http://teamcoco.com/video\n\nGet Social With Team Coco:\nOn Facebook: \u202ahttps://www.facebook.com/TeamCoco\u202c\nOn Google+: https://plus.google.com/+TeamCoco/\nOn Twitter: http://twitter.com/TeamCoco\nOn Tumblr: http://teamcoco.tumblr.com\nOn YouTube: http://youtube.com/teamcoco\n\nFollow Conan O'Brien on Twitter: http://twitter.com/ConanOBrien",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jDdKtWnFXFo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jDdKtWnFXFo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jDdKtWnFXFo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jDdKtWnFXFo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Team Coco",
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Conan Hits The Gym With Kevin Hart  - CONAN on TBS",
+     "description": "Kevin and Conan work all the major muscle groups: biceps, lats, and of course, the taint. \n\n\"Kevin Hart: What Now?\" is in theaters on October 14th. http://www.kevinhartwhatnow.com/\n\nMore CONAN @ http://teamcoco.com/video\n\nTeam Coco is the official YouTube channel of late night host Conan O'Brien, CONAN on TBS & TeamCoco.com. Subscribe now to be updated on the latest videos: http://bit.ly/W5wt5D\n\nFor Full Episodes of CONAN on TBS, visit http://teamcoco.com/video\n\nGet Social With Team Coco:\nOn Facebook: \u202ahttps://www.facebook.com/TeamCoco\u202c\nOn Google+: https://plus.google.com/+TeamCoco/\nOn Twitter: http://twitter.com/TeamCoco\nOn Tumblr: http://teamcoco.tumblr.com\nOn YouTube: http://youtube.com/teamcoco\n\nFollow Conan O'Brien on Twitter: http://twitter.com/ConanOBrien"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/fVDIezavLJhGEuzYFx9Mf_ZZgoc\"",
+   "id": "QDNNZTQTRzk",
+   "snippet": {
+    "publishedAt": "2016-09-30T10:00:03.000Z",
+    "channelId": "UC4PooiX37Pld1T8J5SYT-SQ",
+    "title": "Will It Burrito? Taste Test",
+    "description": "Today we ask the age old question: Will It Burrito? GMM #991!\nSnag Vol. 2 of the Will It? poster set only at: http://bit.ly/RL_Store\nSUBSCRIBE to GMM for daily episodes: http://bit.ly/subrl2\nWatch today's Good Mythical More: https://goo.gl/vcjd33\n\nFollow Rhett & Link:\nFacebook: http://facebook.com/rhettandlink\nTwitter: http://twitter.com/rhettandlink\nTumblr: http://rhettandlink.tumblr.com\nInstagram: http://instagram.com/rhettandlink\nGoogle+: https://plus.google.com/+rhettandlink\n\nOther Rhett & Link Channels:\nMain Channel: https://youtube.com/rhettandlink\nGood Mythical MORE: https://youtube.com/user/rhettandlink3\nRhett & Link EXTRAS: https://youtube.com/user/rhettandlink4\n\nGMM Merch:\nPoster, T-shirt & More: http://bit.ly/RL_Store\nCoffee Mug: http://bit.ly/GMM_Mug\n\nWatch More GMM:\nChoose a Season:  http://bit.ly/2axhxZN\nPopular Videos: http://bit.ly/2afIJ12\nLatest Uploads: http://bit.ly/2aZMw3K\nWill It?: http://bit.ly/2a64BiV\nTaste Tests: http://bit.ly/2a4v5hZ\n\nListen to our FREE podcast, Ear Biscuits on:\niTunes: http://apple.co/29PTWTM\nSoundCloud:https://soundcloud.com/earbiscuits\n\nJOIN the RhettandLinKommunity: http://bit.ly/rlkommunity\nMail us stuff to our P.O. Box: http://rhettandlink.com/contact\nSubmit a Wheel of Mythicality intro video: http://bit.ly/GMMWheelIntro\n\nWe are two Internetainers dedicated to giving you a daily dose of casual comedy every Monday-Friday on our show \"Good Mythical Morning.\" Thanks for making us a part of your daily routine. Be your mythical best! - Rhett & Link\n\nCredits:\nExecutive Producer: Stevie Wynne Levine\nExecutive Producer: Drew Champion\nWriter/Producer: Edward Coleman \nWriter/Producer: Lizzie Bassett\nWriter/Producer: Kevin Kostelnik\nWriter/Producer: Daniela Hamilton\nAssociate Producer: Chase Hilt\nTechnical Director/Graphics/Editor: Morgan Locke\nEditor: Casey Nimmer\nAdditional Graphics/Editing: Matthew Dwyer \nProduction Coordinator: Alexander Punch \nProduction Assistant: Mike Criscimagna\nSet Construction/Dresser: Cassie Cobb\nIntro Motion Graphics: Digital Twigs \nhttp://www.digitaltwigs.com\nIntro Music: Pomplamoose http://www.youtube.com/pomplamoosemusic\nOutro Music: Pomplamoose http://www.youtube.com/pomplamoosemusic\nWheel of Mythicality Music: http://www.royaltyfreemusiclibrary.com/ \nMicrophone: ‘The Mouse’ by Blue Microphones http://www.bluemic.com/mouse/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QDNNZTQTRzk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QDNNZTQTRzk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QDNNZTQTRzk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QDNNZTQTRzk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QDNNZTQTRzk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Good Mythical Morning",
+    "tags": [
+     "rhett and link",
+     "good mythical morning",
+     "rhett and link good mythical morning",
+     "good mythical morning rhett and link",
+     "rhett and link vlog",
+     "vlog rhett and link",
+     "season 10",
+     "Will It burrito? Taste Test",
+     "Will It Burrito? Taste Test gmm",
+     "good mythical morning Will It Burrito? Taste Test",
+     "Will It Burrito? Taste Test good mythical morning",
+     "rhett and link Will It Burrito? Taste Test",
+     "Will It Burrito? Taste Test rhett and link",
+     "gmm Will It Burrito? Taste Test",
+     "will it",
+     "will it?"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Will It Burrito? Taste Test",
+     "description": "Today we ask the age old question: Will It Burrito? GMM #991!\nSnag Vol. 2 of the Will It? poster set only at: http://bit.ly/RL_Store\nSUBSCRIBE to GMM for daily episodes: http://bit.ly/subrl2\nWatch today's Good Mythical More: https://goo.gl/vcjd33\n\nFollow Rhett & Link:\nFacebook: http://facebook.com/rhettandlink\nTwitter: http://twitter.com/rhettandlink\nTumblr: http://rhettandlink.tumblr.com\nInstagram: http://instagram.com/rhettandlink\nGoogle+: https://plus.google.com/+rhettandlink\n\nOther Rhett & Link Channels:\nMain Channel: https://youtube.com/rhettandlink\nGood Mythical MORE: https://youtube.com/user/rhettandlink3\nRhett & Link EXTRAS: https://youtube.com/user/rhettandlink4\n\nGMM Merch:\nPoster, T-shirt & More: http://bit.ly/RL_Store\nCoffee Mug: http://bit.ly/GMM_Mug\n\nWatch More GMM:\nChoose a Season:  http://bit.ly/2axhxZN\nPopular Videos: http://bit.ly/2afIJ12\nLatest Uploads: http://bit.ly/2aZMw3K\nWill It?: http://bit.ly/2a64BiV\nTaste Tests: http://bit.ly/2a4v5hZ\n\nListen to our FREE podcast, Ear Biscuits on:\niTunes: http://apple.co/29PTWTM\nSoundCloud:https://soundcloud.com/earbiscuits\n\nJOIN the RhettandLinKommunity: http://bit.ly/rlkommunity\nMail us stuff to our P.O. Box: http://rhettandlink.com/contact\nSubmit a Wheel of Mythicality intro video: http://bit.ly/GMMWheelIntro\n\nWe are two Internetainers dedicated to giving you a daily dose of casual comedy every Monday-Friday on our show \"Good Mythical Morning.\" Thanks for making us a part of your daily routine. Be your mythical best! - Rhett & Link\n\nCredits:\nExecutive Producer: Stevie Wynne Levine\nExecutive Producer: Drew Champion\nWriter/Producer: Edward Coleman \nWriter/Producer: Lizzie Bassett\nWriter/Producer: Kevin Kostelnik\nWriter/Producer: Daniela Hamilton\nAssociate Producer: Chase Hilt\nTechnical Director/Graphics/Editor: Morgan Locke\nEditor: Casey Nimmer\nAdditional Graphics/Editing: Matthew Dwyer \nProduction Coordinator: Alexander Punch \nProduction Assistant: Mike Criscimagna\nSet Construction/Dresser: Cassie Cobb\nIntro Motion Graphics: Digital Twigs \nhttp://www.digitaltwigs.com\nIntro Music: Pomplamoose http://www.youtube.com/pomplamoosemusic\nOutro Music: Pomplamoose http://www.youtube.com/pomplamoosemusic\nWheel of Mythicality Music: http://www.royaltyfreemusiclibrary.com/ \nMicrophone: ‘The Mouse’ by Blue Microphones http://www.bluemic.com/mouse/"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/Or2pKc5ZpHCYOUaYCfUF3hV92js\"",
+   "id": "JcYaLqEA4cM",
+   "snippet": {
+    "publishedAt": "2016-09-30T22:02:35.000Z",
+    "channelId": "UCVtL1edhT8qqY-j2JIndMzg",
+    "title": "Stranger Things - 8 Bit Cinema",
+    "description": "The show is widely known for its 80s vibes but watching it in 8-bit really digs deeper into our nostalgia. Grab some Eggos and watch away!\n\n8-bit Cinema \"gamifies\" your favorite Hollywood Blockbusters into 80's arcade and NES inspired action! \n\nDirected by David Dutton\nhttps://twitter.com/Duttonfilms\nMusic by Henry Dutton\n\n8 Bit a.k.a. the third generation of gaming started in 1983 with the Japanese release of the Nintendo Family Computer and Sega. Comment below and suggest the next movie 8-bit Cinema should \"gamify\".\n\nWatch more 8-bit Cinema here: http://goo.gl/kOxFJ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JcYaLqEA4cM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JcYaLqEA4cM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JcYaLqEA4cM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JcYaLqEA4cM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JcYaLqEA4cM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CineFix",
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Stranger Things - 8 Bit Cinema",
+     "description": "The show is widely known for its 80s vibes but watching it in 8-bit really digs deeper into our nostalgia. Grab some Eggos and watch away!\n\n8-bit Cinema \"gamifies\" your favorite Hollywood Blockbusters into 80's arcade and NES inspired action! \n\nDirected by David Dutton\nhttps://twitter.com/Duttonfilms\nMusic by Henry Dutton\n\n8 Bit a.k.a. the third generation of gaming started in 1983 with the Japanese release of the Nintendo Family Computer and Sega. Comment below and suggest the next movie 8-bit Cinema should \"gamify\".\n\nWatch more 8-bit Cinema here: http://goo.gl/kOxFJ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/A5KJpFSkAO_skOgBkPhg_lxdfis\"",
+   "id": "PRpj2nvQkhs",
+   "snippet": {
+    "publishedAt": "2016-09-30T18:04:53.000Z",
+    "channelId": "UCtm0Q_tvsj6B99-AxA0X0qw",
+    "title": "Trump's full deposition in Old Post Office case (part 1 of 2)",
+    "description": "PART 2: https://youtu.be/i-KeJ3e8smU\n\nBackground: https://www.buzzfeed.com/danielwagner/trump-video-depositions?utm_term=.ob9KkZbWP",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PRpj2nvQkhs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PRpj2nvQkhs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PRpj2nvQkhs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "smurfparty",
+    "tags": [
+     "Donald Trump",
+     "deposition",
+     "video",
+     "recording",
+     "Old Post Office",
+     "Mexican",
+     "testify",
+     "oath"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Trump's full deposition in Old Post Office case (part 1 of 2)",
+     "description": "PART 2: https://youtu.be/i-KeJ3e8smU\n\nBackground: https://www.buzzfeed.com/danielwagner/trump-video-depositions?utm_term=.ob9KkZbWP"
+    },
+    "defaultAudioLanguage": "en-US"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/rii97KEaPyIPOk4YT4s-KtM0h20\"",
+   "id": "62bI0zItF6g",
+   "snippet": {
+    "publishedAt": "2016-09-30T15:00:00.000Z",
+    "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+    "title": "Nintendo Entertainment System: NES Classic Edition Features Trailer",
+    "description": "Whether you have fond NES memories or want to introduce yourself and your kids to the video games that made Nintendo a household name, you’ll love the compact and attractive console. The hub of the NES Classic Edition is the HOME Menu, which can be used to access all 30 of the classic NES games. From here, you can adjust various settings or just dive into a game and start playing. To help locate games quickly and easily, you can press the Select button to sort by title, two-player games, recently played games, number of times played, release date and publisher. \n\nTo make sure every Goomba stomp looks as authentic as possible, all games can be played in three display modes. With the CRT filter, a scan-line effect is added to the screen to give everything that oh-so-retro look and feel. 4:3 is a sharp, clean look that adheres to the original aspect ratio used by the NES. And when playing in Pixel Perfect mode, every pixel is shown as a perfect square, providing the most accurate representation of the games as they were originally designed. \n\nRetro gaming is defined in part by the search for save spots and the need to enter long passwords, but in practice, those tasks can definitely be a little … um … time consuming. While all aspects of the original 30 NES games are intact, Suspend Points have been added to streamline the experience of playing them. At any point during gameplay, simply press the console’s Reset button to return to the HOME Menu and save a Suspend Point that will let you pick up right where you left off. Up to four Suspend Points can be saved per game, so you can track the progress of multiple players or file away your favorite moments. This is great news for parents, as their kids won’t be able to use the “I’ll be there when I get to the next save point!” excuse any more when dinner is ready. \n\nNintendo Entertainment System: NES Classic Edition is a little more than a month away! To learn more about the system while you wait for it to launch on Nov. 11 (and to view the list of all 30 playable NES games), visit http://www.nintendo.com/nes-classic. \n\nSubscribe for more Nintendo fun! https://goo.gl/09xFdP\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/Nintendo\nFollow us on Pinterest: http://pinterest.com/Nintendo\nFollow us on Google+: http://google.com/+Nintendo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/62bI0zItF6g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/62bI0zItF6g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/62bI0zItF6g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/62bI0zItF6g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/62bI0zItF6g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Nintendo",
+    "tags": [
+     "nintendo",
+     "play",
+     "play nintendo",
+     "game",
+     "gameplay",
+     "fun",
+     "video game",
+     "kids",
+     "action",
+     "adventure",
+     "rpg",
+     "classic",
+     "nes",
+     "nintendo entertainment system",
+     "old",
+     "retro",
+     "throwback",
+     "edition",
+     "zelda",
+     "mario",
+     "kirby",
+     "metroid",
+     "controller",
+     "gray",
+     "small",
+     "mini",
+     "bowser"
+    ],
+    "categoryId": "20",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Nintendo Entertainment System: NES Classic Edition Features Trailer",
+     "description": "Whether you have fond NES memories or want to introduce yourself and your kids to the video games that made Nintendo a household name, you’ll love the compact and attractive console. The hub of the NES Classic Edition is the HOME Menu, which can be used to access all 30 of the classic NES games. From here, you can adjust various settings or just dive into a game and start playing. To help locate games quickly and easily, you can press the Select button to sort by title, two-player games, recently played games, number of times played, release date and publisher. \n\nTo make sure every Goomba stomp looks as authentic as possible, all games can be played in three display modes. With the CRT filter, a scan-line effect is added to the screen to give everything that oh-so-retro look and feel. 4:3 is a sharp, clean look that adheres to the original aspect ratio used by the NES. And when playing in Pixel Perfect mode, every pixel is shown as a perfect square, providing the most accurate representation of the games as they were originally designed. \n\nRetro gaming is defined in part by the search for save spots and the need to enter long passwords, but in practice, those tasks can definitely be a little … um … time consuming. While all aspects of the original 30 NES games are intact, Suspend Points have been added to streamline the experience of playing them. At any point during gameplay, simply press the console’s Reset button to return to the HOME Menu and save a Suspend Point that will let you pick up right where you left off. Up to four Suspend Points can be saved per game, so you can track the progress of multiple players or file away your favorite moments. This is great news for parents, as their kids won’t be able to use the “I’ll be there when I get to the next save point!” excuse any more when dinner is ready. \n\nNintendo Entertainment System: NES Classic Edition is a little more than a month away! To learn more about the system while you wait for it to launch on Nov. 11 (and to view the list of all 30 playable NES games), visit http://www.nintendo.com/nes-classic. \n\nSubscribe for more Nintendo fun! https://goo.gl/09xFdP\n\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\n\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\nFollow us on Twitter: http://twitter.com/NintendoAmerica\nFollow us on Instagram: http://instagram.com/Nintendo\nFollow us on Pinterest: http://pinterest.com/Nintendo\nFollow us on Google+: http://google.com/+Nintendo"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/BoXYANmHsJM8B3s--HXs8XfulJk\"",
+   "id": "8MFn5c_lyOc",
+   "snippet": {
+    "publishedAt": "2016-10-01T01:26:30.000Z",
+    "channelId": "UCey_c7U86mJGz1VJWH5CYPA",
+    "title": "Playstation VR Unboxing!",
+    "description": "Thanks so much to Playstation for hooking us up with an early look at the PSVR! Here's what's in the box!\nFull YouTube Gaming Live Show: https://www.youtube.com/watch?v=7i1ylWxKJjA\nSUBSCRIBE FOR MORE VIDS: http://www.youtube.com/subscription_center?add_user=ijustine\nGET MY BOOK: http://ijustine.com/ijustine-order-now\nBLOG: http://www.ijustine.com \n\nSOCIAL NETWORKS:\nhttp://instagram.com/ijustine\nhttp://twitter.com/ijustine\nhttp://facebook.com/ijustine\ngoogle+ : http://google.com/+ijustine\ntumblr : http://ijustine.tumblr.com\nvine: @ijustine\nsnapchat: ijustine\n\nMY YOUTUBE CHANNELS:\nhttp://youtube.com/ijustine\nhttp://youtube.com/otherijustine\nhttp://youtube.com/ijustinegaming\n\n**\n\nDisclosure: Sony gave me this PSVR to review and unbox! Thanks :)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8MFn5c_lyOc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8MFn5c_lyOc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8MFn5c_lyOc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8MFn5c_lyOc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8MFn5c_lyOc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "iJustine",
+    "tags": [
+     "playstation vr",
+     "PS VR",
+     "PSVR",
+     "headset",
+     "virtual reality",
+     "ijustine",
+     "psvr unboxing",
+     "ps vr unboxing",
+     "review",
+     "set up",
+     "ps vr unit",
+     "playstation 4",
+     "ps4"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Playstation VR Unboxing!",
+     "description": "Thanks so much to Playstation for hooking us up with an early look at the PSVR! Here's what's in the box!\nFull YouTube Gaming Live Show: https://www.youtube.com/watch?v=7i1ylWxKJjA\nSUBSCRIBE FOR MORE VIDS: http://www.youtube.com/subscription_center?add_user=ijustine\nGET MY BOOK: http://ijustine.com/ijustine-order-now\nBLOG: http://www.ijustine.com \n\nSOCIAL NETWORKS:\nhttp://instagram.com/ijustine\nhttp://twitter.com/ijustine\nhttp://facebook.com/ijustine\ngoogle+ : http://google.com/+ijustine\ntumblr : http://ijustine.tumblr.com\nvine: @ijustine\nsnapchat: ijustine\n\nMY YOUTUBE CHANNELS:\nhttp://youtube.com/ijustine\nhttp://youtube.com/otherijustine\nhttp://youtube.com/ijustinegaming\n\n**\n\nDisclosure: Sony gave me this PSVR to review and unbox! Thanks :)"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/ebhi47tAlhqmvPFYRvsnS71rKus\"",
+   "id": "Kr_yEYJgBFE",
+   "snippet": {
+    "publishedAt": "2016-10-01T11:30:00.000Z",
+    "channelId": "UCg-YSRB6TsIq-c5PUZ0F1Jg",
+    "title": "Wacky Rainbow Bubble Gum Cake (Bubblegum Cake) from Cookies Cupcakes and Cardio",
+    "description": "Subscribe: http://goo.gl/tuamEz\nToday Jenn Johns shows you how to make a bubble gum cake! This homemade cake has surprise bubbles hiding inside, is bubble gum flavoured, and is covered in a rainbow of gum balls!  \nBUY MY COOKBOOK: http://cookiescupcakesandcardio.com/?page_id=7366\n\n**********************\nMore videos:\nRAINBOW CAKE RECIPES: https://goo.gl/aiHQuf\nJELLO RECIPES: https://goo.gl/NbNeeZ\nFOOD IMPOSTER RECIPES: https://goo.gl/QG3TUf\nHOMEMADE CAKES: https://goo.gl/WO3gwS\n\n**********************\nSubscribe: http://goo.gl/tuamEz\nVisit my blog at: http://cookiescupcakesandcardio.com\nInstagram: http://instagram.com/CupcakesandCardio#\nPinterest: http://pinterest.com/cupcakescardio\nFacebook: https://www.facebook.com/CookiesCupcakesandCardio/\nGoogle+: https://plus.google.com/u/0/+Cookiescupcakesandcardio\nTumblr: http://cookiescupcakesandcardio.tumblr.com/\nTwitter: https://twitter.com/CupcakeNCardio\n**********************\n\nHow to Make a Bubble Gum Cake \n\nIngredients:\n• Prebaked colored cakes (https://youtu.be/XaNELscDtms)\n• Bubble gum flavouring\n• Cake batter (https://youtu.be/XaNELscDtms replace vanilla extract with 1/2 tsp bubble gum flavouring)\n• Light Pink, and Hot pink buttercream (https://youtu.be/rjqOTM5icOE replace vanilla extract with 1/2 tsp bubble gum flavouring) \n• Gum balls\n• Large Gum balls\n• Edible geletin bubbles (https://youtu.be/-x7bfKyYzzg)\n• Pink sprinkles/candy\n\nProcedure:\n1. Preheat oven to 350F. Grease two 8\" cake pans and two 6\" cake pans.\n2. Cover bottom of each cake pan with one cup of cake batter, spread thinly.\n3. Cut coloured cakes into wedges. Using a 1.25\" circle cutter, cut the wedge into circles. Place the thinner circle in one pan, and press it into the batter near the center of the pan, and the thicker circle in the other pan, towards the outer edge. Repeat cutting wedges, and cutting circles out and placing into the batter until two rings of bubbles is complete.\n4. Cover the coloured cake with additional cake batter until all pieces are covered.\n5. Bake the cakes in the preheated oven for 60-70 minutes, or until the edges are golden brown and the cake is completely cooked in the center. Allow to cool completely.\n6. Once cakes have cooled completely, level and stack cakes. Use the hot pink buttercream to fill between the layers, and cover cakes in light pink. \n7. Place three wood dowels into the larger cake and cut flush to the top of the cake. Stack with smaller cake on top of the support dowels, slightly hanging the cake over the edge of the larger one below. Insert one to two additional dowels through both layers.\n8. Starting on the bottom layer, cover the entire cake in gum balls! \n9. Cover half of the top layer with gum balls. \n10. To the top of the cake, place the edible bubbles, homemade bubble gum, sprinkles, and additional gum balls of both sizes. Work the gum balls up the front of the cake and place sprinkles in between the gum balls. \n11. Fill an 8\" round fish bowl with large gum balls and place the cake on top for display. \n12. Slice and serve when desired. Cake is best consumed within 2-3 days and should be kept in the fridge.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Kr_yEYJgBFE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Kr_yEYJgBFE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Kr_yEYJgBFE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Kr_yEYJgBFE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Kr_yEYJgBFE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Cookies Cupcakes and Cardio",
+    "tags": [
+     "bubble gum cake",
+     "gum cake",
+     "bubble cake",
+     "bubble gum",
+     "surprise inside",
+     "homemade bubble gum",
+     "how to make bubble gum",
+     "how to make bubble gum cake",
+     "gum balls",
+     "gum balls cake",
+     "surprise inside cake",
+     "birthday cake",
+     "birthday cakes",
+     "cake",
+     "cake decorating",
+     "cake recipes",
+     "cakes",
+     "Cookies Cupcakes and Cardio",
+     "Cupcakes and Cardio",
+     "how to make cake",
+     "jenn johns",
+     "jennifer johns",
+     "rainbow",
+     "rainbow cake",
+     "Bubblegum",
+     "bubblegum cake"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Wacky Rainbow Bubble Gum Cake (Bubblegum Cake) from Cookies Cupcakes and Cardio",
+     "description": "Subscribe: http://goo.gl/tuamEz\nToday Jenn Johns shows you how to make a bubble gum cake! This homemade cake has surprise bubbles hiding inside, is bubble gum flavoured, and is covered in a rainbow of gum balls!  \nBUY MY COOKBOOK: http://cookiescupcakesandcardio.com/?page_id=7366\n\n**********************\nMore videos:\nRAINBOW CAKE RECIPES: https://goo.gl/aiHQuf\nJELLO RECIPES: https://goo.gl/NbNeeZ\nFOOD IMPOSTER RECIPES: https://goo.gl/QG3TUf\nHOMEMADE CAKES: https://goo.gl/WO3gwS\n\n**********************\nSubscribe: http://goo.gl/tuamEz\nVisit my blog at: http://cookiescupcakesandcardio.com\nInstagram: http://instagram.com/CupcakesandCardio#\nPinterest: http://pinterest.com/cupcakescardio\nFacebook: https://www.facebook.com/CookiesCupcakesandCardio/\nGoogle+: https://plus.google.com/u/0/+Cookiescupcakesandcardio\nTumblr: http://cookiescupcakesandcardio.tumblr.com/\nTwitter: https://twitter.com/CupcakeNCardio\n**********************\n\nHow to Make a Bubble Gum Cake \n\nIngredients:\n• Prebaked colored cakes (https://youtu.be/XaNELscDtms)\n• Bubble gum flavouring\n• Cake batter (https://youtu.be/XaNELscDtms replace vanilla extract with 1/2 tsp bubble gum flavouring)\n• Light Pink, and Hot pink buttercream (https://youtu.be/rjqOTM5icOE replace vanilla extract with 1/2 tsp bubble gum flavouring) \n• Gum balls\n• Large Gum balls\n• Edible geletin bubbles (https://youtu.be/-x7bfKyYzzg)\n• Pink sprinkles/candy\n\nProcedure:\n1. Preheat oven to 350F. Grease two 8\" cake pans and two 6\" cake pans.\n2. Cover bottom of each cake pan with one cup of cake batter, spread thinly.\n3. Cut coloured cakes into wedges. Using a 1.25\" circle cutter, cut the wedge into circles. Place the thinner circle in one pan, and press it into the batter near the center of the pan, and the thicker circle in the other pan, towards the outer edge. Repeat cutting wedges, and cutting circles out and placing into the batter until two rings of bubbles is complete.\n4. Cover the coloured cake with additional cake batter until all pieces are covered.\n5. Bake the cakes in the preheated oven for 60-70 minutes, or until the edges are golden brown and the cake is completely cooked in the center. Allow to cool completely.\n6. Once cakes have cooled completely, level and stack cakes. Use the hot pink buttercream to fill between the layers, and cover cakes in light pink. \n7. Place three wood dowels into the larger cake and cut flush to the top of the cake. Stack with smaller cake on top of the support dowels, slightly hanging the cake over the edge of the larger one below. Insert one to two additional dowels through both layers.\n8. Starting on the bottom layer, cover the entire cake in gum balls! \n9. Cover half of the top layer with gum balls. \n10. To the top of the cake, place the edible bubbles, homemade bubble gum, sprinkles, and additional gum balls of both sizes. Work the gum balls up the front of the cake and place sprinkles in between the gum balls. \n11. Fill an 8\" round fish bowl with large gum balls and place the cake on top for display. \n12. Slice and serve when desired. Cake is best consumed within 2-3 days and should be kept in the fridge."
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/rElhWNqHGhNI8yJF9cYoBO0eYYY\"",
+   "id": "Ty6_M2aMlas",
+   "snippet": {
+    "publishedAt": "2016-10-01T12:00:03.000Z",
+    "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+    "title": "James Marsden Always Struggles to Get the Girl",
+    "description": "James Marsden responds to the news that the next Bachelor star is being called \"the James Marsden of bachelors\" by sadly singing Kenny Rogers \"Lady.\"\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN\n\nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\nGet more Jimmy Fallon: \nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\n\nGet more The Tonight Show Starring Jimmy Fallon: \nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nThe Tonight Show Tumblr: http://fallontonight.tumblr.com/\n\nGet more NBC: \nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://nbctv.tumblr.com/\nNBC Google+: https://plus.google.com/+NBC/posts\n\nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show including: comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n\nJames Marsden Always Struggles to Get the Girl\nhttp://www.youtube.com/fallontonight",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ty6_M2aMlas/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ty6_M2aMlas/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ty6_M2aMlas/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ty6_M2aMlas/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ty6_M2aMlas/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+    "tags": [
+     "The Tonight Show",
+     "Jimmy Fallon",
+     "James Marsden",
+     "Always",
+     "Struggles",
+     "Get the Girl",
+     "NBC",
+     "NBC TV",
+     "Television",
+     "Funny",
+     "Talk Show",
+     "comedic",
+     "humor",
+     "snl",
+     "Fallon Stand-up",
+     "Fallon monologue",
+     "tonight",
+     "show",
+     "jokes",
+     "funny video",
+     "interview",
+     "variety",
+     "comedy sketches",
+     "talent",
+     "celebrities",
+     "music",
+     "musical performance",
+     "the roots",
+     "video",
+     "clip",
+     "highlight",
+     "x-men",
+     "xmen",
+     "scott summers",
+     "cyclops",
+     "superman",
+     "enchanted",
+     "wander over yonder",
+     "accidental love",
+     "30 rock"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "James Marsden Always Struggles to Get the Girl",
+     "description": "James Marsden responds to the news that the next Bachelor star is being called \"the James Marsden of bachelors\" by sadly singing Kenny Rogers \"Lady.\"\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN\n\nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\nGet more Jimmy Fallon: \nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\n\nGet more The Tonight Show Starring Jimmy Fallon: \nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nThe Tonight Show Tumblr: http://fallontonight.tumblr.com/\n\nGet more NBC: \nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://nbctv.tumblr.com/\nNBC Google+: https://plus.google.com/+NBC/posts\n\nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show including: comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n\nJames Marsden Always Struggles to Get the Girl\nhttp://www.youtube.com/fallontonight"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/UwILs6ZQKADaM-3Qlu9nnOPAuE4\"",
+   "id": "VaRmYPtwZHM",
+   "snippet": {
+    "publishedAt": "2016-10-01T17:32:04.000Z",
+    "channelId": "UCu6mSoMNzHQiBIOCkHUa2Aw",
+    "title": "Fixing The Ring",
+    "description": "My fiance's ring broke and so I put it back together better than before. \n\nMaking original ring: https://www.youtube.com/watch?v=2epi6xRFKFE\n\nHelp me make videos by donating here: https://www.patreon.com/CodysLab",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VaRmYPtwZHM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VaRmYPtwZHM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VaRmYPtwZHM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VaRmYPtwZHM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Cody'sLab",
+    "tags": [
+     "Silver",
+     "Fire",
+     "hot",
+     "homemade",
+     "engagement",
+     "gold",
+     "liquid",
+     "lost wax",
+     "casting"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Fixing The Ring",
+     "description": "My fiance's ring broke and so I put it back together better than before. \n\nMaking original ring: https://www.youtube.com/watch?v=2epi6xRFKFE\n\nHelp me make videos by donating here: https://www.patreon.com/CodysLab"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/NZXE2v6wlewNb1R46D2ozZvLjkM\"",
+   "id": "-kdgYzPIugg",
+   "snippet": {
+    "publishedAt": "2016-09-30T17:02:03.000Z",
+    "channelId": "UCJFCmrB4hr_mBMwzg3vGrsQ",
+    "title": "Twin Peaks | Composer Angelo Badalamenti Tease | SHOWTIME Series (2017)",
+    "description": "TWIN PEAKS features prolific composer Angelo Badalamenti and his Grammy® Award-winning theme music from the original series – one of the most distinctive ever created for television by David Lynch. Badalamenti will return as composer for the new series, which will premiere on SHOWTIME in 2017.\n\nBadalamenti has written some of the most unique film scores of our time. He is widely known for his long-standing collaboration with TWIN PEAKS director David Lynch, which has produced a creative and inspired body of work. In addition to receiving the Grammy Award for the theme music of the original series, the “Soundtrack Album from Twin Peaks” achieved gold status in 25 countries. Badalamenti has also received three Emmy® Award nominations for the original series, as well as Golden Globe® nominations for films The Straight Story and Mulholland Drive.\n\nOne of the most groundbreaking and influential television series of all time, the new SHOWTIME series picks up twenty-five years after the inhabitants of a quaint northwestern town were stunned when their homecoming queen Laura Palmer was shockingly murdered. The new TWIN PEAKS is written and produced by series creators and executive producers David Lynch and Mark Frost and is directed entirely by Lynch.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-kdgYzPIugg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-kdgYzPIugg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-kdgYzPIugg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-kdgYzPIugg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Twin Peaks",
+    "tags": [
+     "Showtime",
+     "David Lynch",
+     "Mark Frost",
+     "Twin Peaks",
+     "Twin Peaks 2017",
+     "Dale Cooper",
+     "Special Agent Dale Cooper",
+     "Sheriff Harry S. Truman",
+     "Shelly Johnson",
+     "Michael Ontkean",
+     "Laura Palmer",
+     "Twin Peaks Theme",
+     "Angelo Badalamenti"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Twin Peaks | Composer Angelo Badalamenti Tease | SHOWTIME Series (2017)",
+     "description": "TWIN PEAKS features prolific composer Angelo Badalamenti and his Grammy® Award-winning theme music from the original series – one of the most distinctive ever created for television by David Lynch. Badalamenti will return as composer for the new series, which will premiere on SHOWTIME in 2017.\n\nBadalamenti has written some of the most unique film scores of our time. He is widely known for his long-standing collaboration with TWIN PEAKS director David Lynch, which has produced a creative and inspired body of work. In addition to receiving the Grammy Award for the theme music of the original series, the “Soundtrack Album from Twin Peaks” achieved gold status in 25 countries. Badalamenti has also received three Emmy® Award nominations for the original series, as well as Golden Globe® nominations for films The Straight Story and Mulholland Drive.\n\nOne of the most groundbreaking and influential television series of all time, the new SHOWTIME series picks up twenty-five years after the inhabitants of a quaint northwestern town were stunned when their homecoming queen Laura Palmer was shockingly murdered. The new TWIN PEAKS is written and produced by series creators and executive producers David Lynch and Mark Frost and is directed entirely by Lynch."
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/O4DqcLUFzg8VPRyFZBgUqViMNVo\"",
+   "id": "WP0YwjXrQMQ",
+   "snippet": {
+    "publishedAt": "2016-09-30T20:25:33.000Z",
+    "channelId": "UC6jgzx2g3nlbaYkd8EMweKA",
+    "title": "Halo Smokey Eye with Glitter Liner  | Jaclyn Hill",
+    "description": "Subscribe!  http://goo.gl/3Awmn8\n\n♡ ♡ ♡ \n\nDISCOUNT CODES:\n\nMORPHE BRUSHES:\nhttp://morphebrushes.com/index.php?dispatch=categories.view&category_id=358\nUSE CODE: “JACATTACK” FOR A DISCOUNT\n\nELCIE COSMETICS - http://elciecosmetics.com/\nDSCOUNT CODE - “JHill10”\n\nSIGMA BRUSHES:\nclick this link:\nhttp://sigma-beauty.7eer.net/c/104560/146780/2835.\nEnter discount code “JACLYN\" at checkout for 10% off\nFree shipping on orders of $50\n\nHAIR EXTENSIONS:\nhttp://www.bellamihair.com/pages/lilly-hair-260g-20\nEnter code \"jaclyn\" for $5 off a pair of extensions for yourself.\n\nBELLAMI Hot tools: \nENTER  'jaclyn160' for $160 off the 6 in 1 Curler\nhttp://www.bellamihair.com/products/bellami-6-in-1-complete-curler-set#.UrEIUGRDs54\n\nENTER  'jaclyn70' for $70 off the straightening iron.\nhttp://www.bellamihair.com/products/bellami-runway-flat-styler-iron\n\nMAKEUP GEEK:\nhttp://www.makeupgeek.com/store/eye-products/eyeshadows/makeup-geek-eyeshadows.html?acc=aab3238922bcc25a6f606eb525ffdc56\n\n♡ ♡ ♡ \n\nCONNECT WITH ME!!!\n\nMY PO BOX\n301 W. Platt St #632 \nTampa FL 33606\n\nINSTAGRAM:\nJaclynhill\n\nTWITTER:\nJaclynhill\n\nSNAPCHAT:\nJaclynrhill\n\nBusiness inquiries only:\nJaclynroxanne.hill@gmail.com\n(I am no longer booking clients)\n\n\n♡ ♡ ♡ \n\nPRODUCTS USED\n\nMakeup Geek Bake Sale\nMakeup Geek Creme Brûlée\nThe Masquerade Palette by Juvias Place\nThe Nubian 2 Palette \nAnastasia 'Fudge'\nNatasha Denona \"04M Chromatic' Shadow\nMaybelline Gel Liner\nLit Cosmetics Marilyn Monroe Glitter\nBlinking Beauté Samantha Lashes\nElcie Pearl Radiance Primer \nHourglass Vanish Foundation\nTaste Shape Tape Concealer \nRCMS No Color Translucent Powder\nBenefit Hoola Bronzer \nMorphe 9N Palette\nChampagne Pop\nMary Lou Manizer \nColourpop 'Point Zero'\nJeffree Star Cosmetics 'Posh Spice'\n\n♡ ♡ ♡\n\nEye Blending Brushes\nhttp://bit.ly/1NQ4rXT\nhttp://bit.ly/1MdHKr8\n\nContour & Blush Brush -\nhttp://bit.ly/1nMvTeX\n\nHighlighting Brush -\nhttp://bit.ly/1PbCJpl\n\nFoundation Brush \nhttp://bit.ly/1QpxRyt\n\n* SOME links provided above are affiliate links!  I am compensated based on some affiliate purchases.\n\nMy channel is a fun place for people to enjoy the world of beauty! If you leave mean negative comments or resort to name calling, I will delete your comment & block you. My channel is not the place. This world is so ugly & negative & we desperately need to make a change. I cant control the world, but I can control my channel. Constructive criticism is always welcome! \"you're a lying bitch\" is NOT constructive ! Don't feel like you need to kiss my ass. Feel free to speak your mind but please respect each other! XOXO",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WP0YwjXrQMQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WP0YwjXrQMQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WP0YwjXrQMQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WP0YwjXrQMQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WP0YwjXrQMQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jaclyn Hill",
+    "tags": [
+     "jaclynhill1",
+     "jaclyn hill",
+     "makeup tutorial",
+     "smokey eye tutorial",
+     "contour face",
+     "morning routine",
+     "how-to",
+     "everyday makeup",
+     "cat eye makeup",
+     "cat makeup",
+     "drugstore makeup"
+    ],
+    "categoryId": "26",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Halo Smokey Eye with Glitter Liner  | Jaclyn Hill",
+     "description": "Subscribe!  http://goo.gl/3Awmn8\n\n♡ ♡ ♡ \n\nDISCOUNT CODES:\n\nMORPHE BRUSHES:\nhttp://morphebrushes.com/index.php?dispatch=categories.view&category_id=358\nUSE CODE: “JACATTACK” FOR A DISCOUNT\n\nELCIE COSMETICS - http://elciecosmetics.com/\nDSCOUNT CODE - “JHill10”\n\nSIGMA BRUSHES:\nclick this link:\nhttp://sigma-beauty.7eer.net/c/104560/146780/2835.\nEnter discount code “JACLYN\" at checkout for 10% off\nFree shipping on orders of $50\n\nHAIR EXTENSIONS:\nhttp://www.bellamihair.com/pages/lilly-hair-260g-20\nEnter code \"jaclyn\" for $5 off a pair of extensions for yourself.\n\nBELLAMI Hot tools: \nENTER  'jaclyn160' for $160 off the 6 in 1 Curler\nhttp://www.bellamihair.com/products/bellami-6-in-1-complete-curler-set#.UrEIUGRDs54\n\nENTER  'jaclyn70' for $70 off the straightening iron.\nhttp://www.bellamihair.com/products/bellami-runway-flat-styler-iron\n\nMAKEUP GEEK:\nhttp://www.makeupgeek.com/store/eye-products/eyeshadows/makeup-geek-eyeshadows.html?acc=aab3238922bcc25a6f606eb525ffdc56\n\n♡ ♡ ♡ \n\nCONNECT WITH ME!!!\n\nMY PO BOX\n301 W. Platt St #632 \nTampa FL 33606\n\nINSTAGRAM:\nJaclynhill\n\nTWITTER:\nJaclynhill\n\nSNAPCHAT:\nJaclynrhill\n\nBusiness inquiries only:\nJaclynroxanne.hill@gmail.com\n(I am no longer booking clients)\n\n\n♡ ♡ ♡ \n\nPRODUCTS USED\n\nMakeup Geek Bake Sale\nMakeup Geek Creme Brûlée\nThe Masquerade Palette by Juvias Place\nThe Nubian 2 Palette \nAnastasia 'Fudge'\nNatasha Denona \"04M Chromatic' Shadow\nMaybelline Gel Liner\nLit Cosmetics Marilyn Monroe Glitter\nBlinking Beauté Samantha Lashes\nElcie Pearl Radiance Primer \nHourglass Vanish Foundation\nTaste Shape Tape Concealer \nRCMS No Color Translucent Powder\nBenefit Hoola Bronzer \nMorphe 9N Palette\nChampagne Pop\nMary Lou Manizer \nColourpop 'Point Zero'\nJeffree Star Cosmetics 'Posh Spice'\n\n♡ ♡ ♡\n\nEye Blending Brushes\nhttp://bit.ly/1NQ4rXT\nhttp://bit.ly/1MdHKr8\n\nContour & Blush Brush -\nhttp://bit.ly/1nMvTeX\n\nHighlighting Brush -\nhttp://bit.ly/1PbCJpl\n\nFoundation Brush \nhttp://bit.ly/1QpxRyt\n\n* SOME links provided above are affiliate links!  I am compensated based on some affiliate purchases.\n\nMy channel is a fun place for people to enjoy the world of beauty! If you leave mean negative comments or resort to name calling, I will delete your comment & block you. My channel is not the place. This world is so ugly & negative & we desperately need to make a change. I cant control the world, but I can control my channel. Constructive criticism is always welcome! \"you're a lying bitch\" is NOT constructive ! Don't feel like you need to kiss my ass. Feel free to speak your mind but please respect each other! XOXO"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/gYK_GpejoxwuMa6tuiZZPPFJc3g\"",
+   "id": "jtnm5YtQU2U",
+   "snippet": {
+    "publishedAt": "2016-09-30T17:56:05.000Z",
+    "channelId": "UCflXBhOOfbWnCVqYuIFEkSw",
+    "title": "Here's why IT'S NOT OKAY (not for kids)",
+    "description": "Alex's Lemonade Stand Foundation http://www.alexslemonade.org/\nChildhood Cancer Research Fund: http://bit.ly/2dL04Dk\nCURE Childhood Cancer: http://bit.ly/2cX9lWK\nPolycystic Kidney Disease: http://bit.ly/2cRaGOY\n\nNEW VIDEOS MWF!\nLIKE us on Facebook: https://www.facebook.com/TheDeFrancoFam\nLinz Twitter: https://twitter.com/linzdefranco \nLinz Instagram: https://instagram.com/linzdefranco/\nSnapchat: linzdefranco\n\nI'm Lindsay, a 27 year old GA girl living in Los Angeles with my husband Phil and our 2.5 year old son. Our dogs Ace and Rookie are Yorkshire Terriers. I'm stumbling through motherhood one step at a time and am happy to share all my ups and downs with you. Welcome to the fam!\n\nBook's that I always talk about:\n*Happiest Baby on the Block http://amzn.to/2crgbUW\n*Moms on Call (Kindle) http://amzn.to/2cmouzO\n*Whole Brain Child http://amzn.to/2cjDYTI\nHappiest Toddler on the Block http://amzn.to/2cUGYd8\nNo Drama Discipline http://amzn.to/2cqRVPA\nHow to Talk So Kids Will Listen http://amzn.to/2c4KqgD",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jtnm5YtQU2U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jtnm5YtQU2U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jtnm5YtQU2U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jtnm5YtQU2U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jtnm5YtQU2U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "TheDeFrancoFam",
+    "tags": [
+     "The DeFranco Fam",
+     "Linz Defranco",
+     "Philip DeFranco",
+     "Trey DeFranco",
+     "Family Vlog",
+     "CURE childhood cancer",
+     "PKD",
+     "polycystic kidney disease"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Here's why IT'S NOT OKAY (not for kids)",
+     "description": "Alex's Lemonade Stand Foundation http://www.alexslemonade.org/\nChildhood Cancer Research Fund: http://bit.ly/2dL04Dk\nCURE Childhood Cancer: http://bit.ly/2cX9lWK\nPolycystic Kidney Disease: http://bit.ly/2cRaGOY\n\nNEW VIDEOS MWF!\nLIKE us on Facebook: https://www.facebook.com/TheDeFrancoFam\nLinz Twitter: https://twitter.com/linzdefranco \nLinz Instagram: https://instagram.com/linzdefranco/\nSnapchat: linzdefranco\n\nI'm Lindsay, a 27 year old GA girl living in Los Angeles with my husband Phil and our 2.5 year old son. Our dogs Ace and Rookie are Yorkshire Terriers. I'm stumbling through motherhood one step at a time and am happy to share all my ups and downs with you. Welcome to the fam!\n\nBook's that I always talk about:\n*Happiest Baby on the Block http://amzn.to/2crgbUW\n*Moms on Call (Kindle) http://amzn.to/2cmouzO\n*Whole Brain Child http://amzn.to/2cjDYTI\nHappiest Toddler on the Block http://amzn.to/2cUGYd8\nNo Drama Discipline http://amzn.to/2cqRVPA\nHow to Talk So Kids Will Listen http://amzn.to/2c4KqgD"
+    }
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/4DPl6wTbjH1gC7wyCPQQuGE7-tE\"",
+   "id": "XUNriZD1OvQ",
+   "snippet": {
+    "publishedAt": "2016-09-30T15:36:12.000Z",
+    "channelId": "UCGaVdbSav8xWuFWTadK6loA",
+    "title": "Here are Some YouTube Tricks I Use",
+    "description": "I still love me some YouTube videos, so I'm always looking for the best ways to watch them and ensure that I get informed when my favorite creators make stuff. If you want to turn on email and / or mobile notifications for Vlogbrothers...I sure wouldn't mind! \n\nHope this video was helpful. I hated my life until I learned about \"K pausing!\"\n\n----\nSubscribe to our newsletter! http://nerdfighteria.com/newsletter/ \nAnd join the community at http://nerdfighteria.com  http://effyeahnerdfighters.com\nHelp transcribe videos - http://nerdfighteria.info\nJohn's twitter - http://twitter.com/johngreen\nJohn's tumblr - http://fishingboatproceeds.tumblr.com\nHank's twitter - http://twitter.com/hankgreen\nHank's tumblr - http://edwardspoonhands.tumblr.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XUNriZD1OvQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XUNriZD1OvQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XUNriZD1OvQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XUNriZD1OvQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XUNriZD1OvQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "vlogbrothers",
+    "tags": [
+     "youtube",
+     "productivity",
+     "users",
+     "subscriptions",
+     "platform",
+     "learning",
+     "education"
+    ],
+    "categoryId": "22",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Here are Some YouTube Tricks I Use",
+     "description": "I still love me some YouTube videos, so I'm always looking for the best ways to watch them and ensure that I get informed when my favorite creators make stuff. If you want to turn on email and / or mobile notifications for Vlogbrothers...I sure wouldn't mind! \n\nHope this video was helpful. I hated my life until I learned about \"K pausing!\"\n\n----\nSubscribe to our newsletter! http://nerdfighteria.com/newsletter/ \nAnd join the community at http://nerdfighteria.com  http://effyeahnerdfighters.com\nHelp transcribe videos - http://nerdfighteria.info\nJohn's twitter - http://twitter.com/johngreen\nJohn's tumblr - http://fishingboatproceeds.tumblr.com\nHank's twitter - http://twitter.com/hankgreen\nHank's tumblr - http://edwardspoonhands.tumblr.com"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/sQoZqryFj0FsQy92P4CD9c2i6Ns\"",
+   "id": "zmkh_DO6J9M",
+   "snippet": {
+    "publishedAt": "2016-09-29T17:19:09.000Z",
+    "channelId": "UCFiswEI_awoQBRQ1JK6v0cA",
+    "title": "US fan challenged by McIlroy, Stenson, Rose and Sullivan",
+    "description": "When this fan heckled the European Tour during their practice round, Henrik Stenson invited him onto the green to see what it’s like inside the ropes. Safe to say he enjoyed the experience!\n\nKeep up to date with The Ryder Cup at: www.rydercup.com\nFacebook: Ryder Cup European Team and Ryder Cup USA\nTwitter: @RyderCup @RyderCupEurope @RyderCupUSA",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zmkh_DO6J9M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zmkh_DO6J9M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zmkh_DO6J9M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Ryder Cup",
+    "tags": [
+     "ryder cup",
+     "ryder cup 2016",
+     "ryder",
+     "ryder cup tickets",
+     "ryder cup hazeltine",
+     "davis love",
+     "davis love III",
+     "darren clarke",
+     "ryder golf",
+     "ryder cup montage",
+     "hazeltine"
+    ],
+    "categoryId": "17",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "US fan challenged by McIlroy, Stenson, Rose and Sullivan",
+     "description": "When this fan heckled the European Tour during their practice round, Henrik Stenson invited him onto the green to see what it’s like inside the ropes. Safe to say he enjoyed the experience!\n\nKeep up to date with The Ryder Cup at: www.rydercup.com\nFacebook: Ryder Cup European Team and Ryder Cup USA\nTwitter: @RyderCup @RyderCupEurope @RyderCupUSA"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/9HebFpgVt4BPk39WNPvJKE40nBg\"",
+   "id": "m8pGJBgiiDU",
+   "snippet": {
+    "publishedAt": "2016-09-30T15:55:36.000Z",
+    "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+    "title": "Paterson Official Trailer 1 (2016) - Adam Driver Movie",
+    "description": "Starring: Adam Driver, Golshifteh Farahani, Helen-Jean Arthur \nPaterson Official Trailer 1 (2016) - Adam Driver Movie\n\nSet in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.\n\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nWe're on SNAPCHAT: http://bit.ly/2cOzfcy\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nThe Fandango MOVIECLIPS Trailers channel is your destination for the hottest new trailers the second they drop. Whether it's the latest studio release, an indie horror flick, an evocative documentary, or that new RomCom you've been waiting for, the Fandango MOVIECLIPS team is here day and night to make sure all the best new movie trailers are here for you the moment they're released.\n\nIn addition to being the #1 Movie Trailers Channel on YouTube, we deliver amazing and engaging original videos each week. Watch our exclusive Ultimate Trailers, Showdowns, Instant Trailer Reviews, Monthly MashUps, Movie News, and so much more to keep you in the know.\n\nHere at Fandango MOVIECLIPS, we love movies as much as you!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m8pGJBgiiDU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m8pGJBgiiDU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m8pGJBgiiDU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/m8pGJBgiiDU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/m8pGJBgiiDU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Movieclips Trailers",
+    "tags": [
+     "Paterson",
+     "paterson trailer",
+     "paterson movie",
+     "comedy",
+     "drama",
+     "jim jarmusch",
+     "adam driver",
+     "golshifteh farahani",
+     "helen-jean arthur",
+     "new jersey",
+     "bus driver",
+     "poet",
+     "bus",
+     "poetry",
+     "2016",
+     "bleeker street",
+     "jared gilman",
+     "kara hayward",
+     "hd",
+     "fandango",
+     "movieclips",
+     "official",
+     "movie trailers",
+     "trailer",
+     "trailers",
+     "new trailers",
+     "hot new trailers",
+     "new trailer",
+     "movieclips fandango",
+     "movieclips trailers",
+     "film"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Paterson Official Trailer 1 (2016) - Adam Driver Movie",
+     "description": "Starring: Adam Driver, Golshifteh Farahani, Helen-Jean Arthur \nPaterson Official Trailer 1 (2016) - Adam Driver Movie\n\nSet in the present in Paterson, New Jersey, this is a tale about a bus driver and poet.\n\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nWe're on SNAPCHAT: http://bit.ly/2cOzfcy\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nThe Fandango MOVIECLIPS Trailers channel is your destination for the hottest new trailers the second they drop. Whether it's the latest studio release, an indie horror flick, an evocative documentary, or that new RomCom you've been waiting for, the Fandango MOVIECLIPS team is here day and night to make sure all the best new movie trailers are here for you the moment they're released.\n\nIn addition to being the #1 Movie Trailers Channel on YouTube, we deliver amazing and engaging original videos each week. Watch our exclusive Ultimate Trailers, Showdowns, Instant Trailer Reviews, Monthly MashUps, Movie News, and so much more to keep you in the know.\n\nHere at Fandango MOVIECLIPS, we love movies as much as you!"
+    },
+    "defaultAudioLanguage": "en"
+   }
+  }
+ ]
+}
